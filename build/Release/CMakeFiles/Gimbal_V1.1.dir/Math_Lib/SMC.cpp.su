@@ -1,0 +1,5 @@
+/home/yorkuy/Code/Leg_Gimbal/Math_Lib/SMC.cpp:9:6:void SMC::SMC_Tick_4310(float, float)	0	static
+/home/yorkuy/Code/Leg_Gimbal/Math_Lib/SMC.cpp:35:6:void SMC::SMC_Tick(float, float)	0	static
+/home/yorkuy/Code/Leg_Gimbal/Math_Lib/SMC.cpp:60:6:void SMC::SMC_AngleSpeed(float, float, float, float, float)	0	static
+/home/yorkuy/Code/Leg_Gimbal/Math_Lib/SMC.cpp:89:6:void SMC::SMC_Tick_New(float, float)	0	static
+/home/yorkuy/Code/Leg_Gimbal/Math_Lib/SMC.cpp:122:6:void SMC_PITCH::SMC_Tick(float, float, float, float, float)	0	static

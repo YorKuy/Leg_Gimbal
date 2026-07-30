@@ -1,0 +1,3 @@
+/home/yorkuy/Code/Leg_Gimbal/CH010/nmea_dec.c:32:13:septime	24	static
+/home/yorkuy/Code/Leg_Gimbal/CH010/nmea_dec.c:245:5:input_nmea	424	static
+/home/yorkuy/Code/Leg_Gimbal/CH010/nmea_dec.c:275:5:nmea_dec_dump_msg	288	static

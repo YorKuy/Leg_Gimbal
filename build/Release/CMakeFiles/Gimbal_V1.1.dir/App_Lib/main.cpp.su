@@ -1,0 +1,5 @@
+/home/yorkuy/Code/Leg_Gimbal/App_Lib/main.cpp:15:5:int main()	8	static
+/home/yorkuy/Code/Leg_Gimbal/App_Lib/main.cpp:47:17:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	0	static
+/home/yorkuy/Code/Leg_Gimbal/App_Lib/main.cpp:52:17:void HAL_CAN_RxFifo1MsgPendingCallback(CAN_HandleTypeDef*)	0	static
+/home/yorkuy/Code/Leg_Gimbal/App_Lib/main.cpp:57:17:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	0	static
+/home/yorkuy/Code/Leg_Gimbal/App_Lib/main.cpp:60:1:cpp)	0	static

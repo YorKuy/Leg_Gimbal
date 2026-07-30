@@ -1,0 +1,4 @@
+/home/yorkuy/Code/Leg_Gimbal/Motor_Lib/RM.cpp:35:6:void MOTOR_RM::update_mang_inf()	12	static
+/home/yorkuy/Code/Leg_Gimbal/Motor_Lib/RM.cpp:3:19:HAL_StatusTypeDef MOTOR_RM::update()	8	static
+/home/yorkuy/Code/Leg_Gimbal/Motor_Lib/RM.cpp:19:19:HAL_StatusTypeDef MOTOR_RM::DAMIAO_Update()	8	static
+/home/yorkuy/Code/Leg_Gimbal/Motor_Lib/RM.cpp:52:1:cpp)	0	static
