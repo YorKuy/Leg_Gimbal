@@ -561,8 +561,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x4d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_macro   0x0000000000000000      0x2aa cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_macro   0x0000000000000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
- .debug_line    0x0000000000000000      0x7fe cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
- .debug_str     0x0000000000000000    0xbc4c6 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000000000000000      0x81c cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_str     0x0000000000000000    0xbc4d0 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .comment       0x0000000000000000       0x34 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_frame   0x0000000000000000       0xf0 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .ARM.attributes
@@ -683,8 +683,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x4d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_macro   0x0000000000000000      0x2aa cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_macro   0x0000000000000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
- .debug_line    0x0000000000000000      0x856 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
- .debug_str     0x0000000000000000    0xbc536 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_line    0x0000000000000000      0x874 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_str     0x0000000000000000    0xbc540 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .comment       0x0000000000000000       0x34 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_frame   0x0000000000000000      0x274 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .ARM.attributes
@@ -802,8 +802,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x4d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_macro   0x0000000000000000      0x2aa cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_macro   0x0000000000000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
- .debug_line    0x0000000000000000      0x86e cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
- .debug_str     0x0000000000000000    0xbc5a7 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_line    0x0000000000000000      0x88c cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_str     0x0000000000000000    0xbc5b1 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .comment       0x0000000000000000       0x34 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_frame   0x0000000000000000      0x250 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .ARM.attributes
@@ -888,8 +888,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x4d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .debug_macro   0x0000000000000000      0x2aa cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .debug_macro   0x0000000000000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
- .debug_line    0x0000000000000000      0x4ff cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
- .debug_str     0x0000000000000000    0xbc1e7 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_line    0x0000000000000000      0x51d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_str     0x0000000000000000    0xbc1f1 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .comment       0x0000000000000000       0x34 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .ARM.attributes
                 0x0000000000000000       0x39 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
@@ -1069,8 +1069,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x4d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_macro   0x0000000000000000      0x2aa cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_macro   0x0000000000000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
- .debug_line    0x0000000000000000     0x117a cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
- .debug_str     0x0000000000000000    0xbc56b cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_line    0x0000000000000000     0x1198 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_str     0x0000000000000000    0xbc575 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .comment       0x0000000000000000       0x34 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_frame   0x0000000000000000       0xac cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .ARM.attributes
@@ -1279,8 +1279,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x4d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_macro   0x0000000000000000      0x2aa cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_macro   0x0000000000000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
- .debug_line    0x0000000000000000      0x6ff cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
- .debug_str     0x0000000000000000    0xbc5c3 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_line    0x0000000000000000      0x71d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_str     0x0000000000000000    0xbc5cd cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .comment       0x0000000000000000       0x34 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_frame   0x0000000000000000      0x264 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .ARM.attributes
@@ -1378,8 +1378,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x4d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_macro   0x0000000000000000      0x2aa cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_macro   0x0000000000000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
- .debug_line    0x0000000000000000      0x5f2 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
- .debug_str     0x0000000000000000    0xbc48a cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000000000000000      0x610 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_str     0x0000000000000000    0xbc494 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .comment       0x0000000000000000       0x34 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_frame   0x0000000000000000       0xdc cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .ARM.attributes
@@ -1727,8 +1727,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x4d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_macro   0x0000000000000000      0x2aa cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_macro   0x0000000000000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
- .debug_line    0x0000000000000000      0x7d3 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
- .debug_str     0x0000000000000000    0xbc403 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_line    0x0000000000000000      0x7f1 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_str     0x0000000000000000    0xbc40d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .comment       0x0000000000000000       0x34 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_frame   0x0000000000000000      0x174 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .ARM.attributes
@@ -3766,8 +3766,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x16f CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/CP_System.c.obj
  .debug_macro   0x0000000000000000       0x22 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/CP_System.c.obj
  .debug_macro   0x0000000000000000       0xbc CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/CP_System.c.obj
- .debug_line    0x0000000000000000     0x2241 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/CP_System.c.obj
- .debug_str     0x0000000000000000    0xc19c6 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/CP_System.c.obj
+ .debug_line    0x0000000000000000     0x225f CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/CP_System.c.obj
+ .debug_str     0x0000000000000000    0xc19d0 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/CP_System.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/CP_System.c.obj
  .debug_frame   0x0000000000000000      0x328 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/CP_System.c.obj
  .ARM.attributes
@@ -4252,8 +4252,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x12d CMakeFiles/Gimbal_V1.1.dir/CH010/example_data.c.obj
  .debug_macro   0x0000000000000000       0x4c CMakeFiles/Gimbal_V1.1.dir/CH010/example_data.c.obj
  .debug_macro   0x0000000000000000       0x9c CMakeFiles/Gimbal_V1.1.dir/CH010/example_data.c.obj
- .debug_line    0x0000000000000000      0x7ec CMakeFiles/Gimbal_V1.1.dir/CH010/example_data.c.obj
- .debug_str     0x0000000000000000    0xc0d6c CMakeFiles/Gimbal_V1.1.dir/CH010/example_data.c.obj
+ .debug_line    0x0000000000000000      0x80a CMakeFiles/Gimbal_V1.1.dir/CH010/example_data.c.obj
+ .debug_str     0x0000000000000000    0xc0d76 CMakeFiles/Gimbal_V1.1.dir/CH010/example_data.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/Gimbal_V1.1.dir/CH010/example_data.c.obj
  .debug_frame   0x0000000000000000       0x60 CMakeFiles/Gimbal_V1.1.dir/CH010/example_data.c.obj
  .ARM.attributes
@@ -4502,8 +4502,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x29 CMakeFiles/Gimbal_V1.1.dir/CH010/nmea_dec.c.obj
  .debug_macro   0x0000000000000000      0x1a9 CMakeFiles/Gimbal_V1.1.dir/CH010/nmea_dec.c.obj
  .debug_macro   0x0000000000000000      0x11f CMakeFiles/Gimbal_V1.1.dir/CH010/nmea_dec.c.obj
- .debug_line    0x0000000000000000      0xaa6 CMakeFiles/Gimbal_V1.1.dir/CH010/nmea_dec.c.obj
- .debug_str     0x0000000000000000     0x88f0 CMakeFiles/Gimbal_V1.1.dir/CH010/nmea_dec.c.obj
+ .debug_line    0x0000000000000000      0xaab CMakeFiles/Gimbal_V1.1.dir/CH010/nmea_dec.c.obj
+ .debug_str     0x0000000000000000     0x88fa CMakeFiles/Gimbal_V1.1.dir/CH010/nmea_dec.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/Gimbal_V1.1.dir/CH010/nmea_dec.c.obj
  .debug_frame   0x0000000000000000      0x1e0 CMakeFiles/Gimbal_V1.1.dir/CH010/nmea_dec.c.obj
  .ARM.attributes
@@ -8012,7 +8012,7 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
                 0x0000000008000000                g_pfnVectors
                 0x0000000008000188                . = ALIGN (0x4)
 
-.text           0x0000000008000190    0x124f4
+.text           0x0000000008000190    0x12550
                 0x0000000008000190                . = ALIGN (0x4)
  *(.text)
  .text          0x0000000008000190       0x88 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
@@ -8904,477 +8904,481 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
  .text._ZN8MOTOR_DM9DM_updateEv
                 0x000000000800d232      0x144 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
                 0x000000000800d232                MOTOR_DM::DM_update()
- *fill*         0x000000000800d376        0x2 
+ .text._ZN8MOTOR_DM12DM_Clear_ErrEt
+                0x000000000800d376       0x68 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
+                0x000000000800d376                MOTOR_DM::DM_Clear_Err(unsigned short)
+ *fill*         0x000000000800d3de        0x2 
  .text._Z41__static_initialization_and_destruction_0ii
-                0x000000000800d378       0x2c CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
+                0x000000000800d3e0       0x2c CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
  .text._GLOBAL__sub_I__ZN8MOTOR_DM8DM_StartEt
-                0x000000000800d3a4       0x10 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
+                0x000000000800d40c       0x10 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
  .text._ZN10._anon_195C2Ev
-                0x000000000800d3b4       0x34 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
+                0x000000000800d41c       0x34 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
  .text._ZN8MOTOR_RM6updateEv
-                0x000000000800d3e8       0x92 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
-                0x000000000800d3e8                MOTOR_RM::update()
- *fill*         0x000000000800d47a        0x2 
+                0x000000000800d450       0x92 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
+                0x000000000800d450                MOTOR_RM::update()
+ *fill*         0x000000000800d4e2        0x2 
  .text._ZN8MOTOR_RM15update_mang_infEv
-                0x000000000800d47c       0xb8 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
-                0x000000000800d47c                MOTOR_RM::update_mang_inf()
+                0x000000000800d4e4       0xb8 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
+                0x000000000800d4e4                MOTOR_RM::update_mang_inf()
  .text._Z41__static_initialization_and_destruction_0ii
-                0x000000000800d534       0x2c CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
+                0x000000000800d59c       0x2c CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
  .text._GLOBAL__sub_I__ZN8MOTOR_RM6updateEv
-                0x000000000800d560       0x10 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
+                0x000000000800d5c8       0x10 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
  .text._ZN10._anon_195C2Ev
-                0x000000000800d570       0x34 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
+                0x000000000800d5d8       0x34 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
  .text._Z41__static_initialization_and_destruction_0ii
-                0x000000000800d5a4       0x2c CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
+                0x000000000800d60c       0x2c CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
  .text._GLOBAL__sub_I__ZN8USER_CAN25RMD_Read_and_Write_ThingsEtt
-                0x000000000800d5d0       0x10 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
+                0x000000000800d638       0x10 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
  .text._ZSt4fabsf
-                0x000000000800d5e0       0x20 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
-                0x000000000800d5e0                std::fabs(float)
+                0x000000000800d648       0x20 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
+                0x000000000800d648                std::fabs(float)
  .text._ZN10._anon_195C2Ev
-                0x000000000800d600       0x34 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
+                0x000000000800d668       0x34 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
  .text._ZN9PID_class14PID_new_updateEff
-                0x000000000800d634      0x19e CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
-                0x000000000800d634                PID_class::PID_new_update(float, float)
- *fill*         0x000000000800d7d2        0x2 
+                0x000000000800d69c      0x19e CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
+                0x000000000800d69c                PID_class::PID_new_update(float, float)
+ *fill*         0x000000000800d83a        0x2 
  .text._Z41__static_initialization_and_destruction_0ii
-                0x000000000800d7d4       0x2c CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
+                0x000000000800d83c       0x2c CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
  .text._GLOBAL__sub_I__ZN9PID_class35Get_6020mang_need_turn_direction_isEtt
-                0x000000000800d800       0x10 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
+                0x000000000800d868       0x10 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
  .text._ZN3SMC3SatEf
-                0x000000000800d810       0x54 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
-                0x000000000800d810                SMC::Sat(float)
+                0x000000000800d878       0x54 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+                0x000000000800d878                SMC::Sat(float)
  .text._ZN3SMC6SignalEf
-                0x000000000800d864       0x40 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
-                0x000000000800d864                SMC::Signal(float)
+                0x000000000800d8cc       0x40 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+                0x000000000800d8cc                SMC::Signal(float)
  .text._ZN3SMC7Sat_NewEff
-                0x000000000800d8a4       0x64 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
-                0x000000000800d8a4                SMC::Sat_New(float, float)
+                0x000000000800d90c       0x64 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+                0x000000000800d90c                SMC::Sat_New(float, float)
  .text._ZN9SMC_PITCH3SatEf
-                0x000000000800d908       0x54 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
-                0x000000000800d908                SMC_PITCH::Sat(float)
+                0x000000000800d970       0x54 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+                0x000000000800d970                SMC_PITCH::Sat(float)
  .text._ZN9SMC_PITCH6SignalEf
-                0x000000000800d95c       0x40 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
-                0x000000000800d95c                SMC_PITCH::Signal(float)
+                0x000000000800d9c4       0x40 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+                0x000000000800d9c4                SMC_PITCH::Signal(float)
  .text._ZN3SMC8SMC_TickEff
-                0x000000000800d99c      0x190 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
-                0x000000000800d99c                SMC::SMC_Tick(float, float)
+                0x000000000800da04      0x190 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+                0x000000000800da04                SMC::SMC_Tick(float, float)
  .text._ZN3SMC14SMC_AngleSpeedEfffff
-                0x000000000800db2c      0x1cc CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
-                0x000000000800db2c                SMC::SMC_AngleSpeed(float, float, float, float, float)
+                0x000000000800db94      0x1cc CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+                0x000000000800db94                SMC::SMC_AngleSpeed(float, float, float, float, float)
  .text._ZN9SMC_PITCH8SMC_TickEfffff
-                0x000000000800dcf8      0x168 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
-                0x000000000800dcf8                SMC_PITCH::SMC_Tick(float, float, float, float, float)
+                0x000000000800dd60      0x168 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+                0x000000000800dd60                SMC_PITCH::SMC_Tick(float, float, float, float, float)
  .text._ZN10._anon_195C2Ev
-                0x000000000800de60       0x34 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800dec8       0x34 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
  .text._ZN5PITCHC2Ev
-                0x000000000800de94       0x7c CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800de94                PITCH::PITCH()
-                0x000000000800de94                PITCH::PITCH()
+                0x000000000800defc       0x7c CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800defc                PITCH::PITCH()
+                0x000000000800defc                PITCH::PITCH()
  .text._ZN3SMCC2Effffffff
-                0x000000000800df10       0x66 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800df10                SMC::SMC(float, float, float, float, float, float, float, float)
-                0x000000000800df10                SMC::SMC(float, float, float, float, float, float, float, float)
+                0x000000000800df78       0x66 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800df78                SMC::SMC(float, float, float, float, float, float, float, float)
+                0x000000000800df78                SMC::SMC(float, float, float, float, float, float, float, float)
  .text._ZN9SMC_PITCHC2Efffffff
-                0x000000000800df76       0x5c CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800df76                SMC_PITCH::SMC_PITCH(float, float, float, float, float, float, float)
-                0x000000000800df76                SMC_PITCH::SMC_PITCH(float, float, float, float, float, float, float)
- *fill*         0x000000000800dfd2        0x2 
+                0x000000000800dfde       0x5c CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800dfde                SMC_PITCH::SMC_PITCH(float, float, float, float, float, float, float)
+                0x000000000800dfde                SMC_PITCH::SMC_PITCH(float, float, float, float, float, float, float)
+ *fill*         0x000000000800e03a        0x2 
  .text._Z19gm6020to_torq_pitchf
-                0x000000000800dfd4       0x50 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800dfd4                gm6020to_torq_pitch(float)
+                0x000000000800e03c       0x50 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800e03c                gm6020to_torq_pitch(float)
  .text._ZN5PITCH11stateFuncOfENS_5StateE
-                0x000000000800e024       0x48 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800e024                PITCH::stateFuncOf(PITCH::State)
+                0x000000000800e08c       0x48 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800e08c                PITCH::stateFuncOf(PITCH::State)
  .text._ZN5PITCH11switchStateENS_5StateE
-                0x000000000800e06c       0x68 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800e06c                PITCH::switchState(PITCH::State)
+                0x000000000800e0d4       0x68 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800e0d4                PITCH::switchState(PITCH::State)
  .text._ZN5PITCH15runCurrentStateEh
-                0x000000000800e0d4       0x7a CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800e0d4                PITCH::runCurrentState(unsigned char)
- *fill*         0x000000000800e14e        0x2 
+                0x000000000800e13c       0x7a CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800e13c                PITCH::runCurrentState(unsigned char)
+ *fill*         0x000000000800e1b6        0x2 
  .text._ZN5PITCH11stateNORMALEh
-                0x000000000800e150      0x218 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800e150                PITCH::stateNORMAL(unsigned char)
+                0x000000000800e1b8      0x218 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800e1b8                PITCH::stateNORMAL(unsigned char)
  .text._ZN5PITCH12stateENCODEREh
-                0x000000000800e368      0x220 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800e368                PITCH::stateENCODER(unsigned char)
+                0x000000000800e3d0      0x220 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800e3d0                PITCH::stateENCODER(unsigned char)
  .text._ZN5PITCH12stateAUTO_ZMEh
-                0x000000000800e588       0xc0 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800e588                PITCH::stateAUTO_ZM(unsigned char)
+                0x000000000800e5f0       0xc0 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800e5f0                PITCH::stateAUTO_ZM(unsigned char)
  .text._ZN5PITCH9stateZEROEh
-                0x000000000800e648       0x38 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800e648                PITCH::stateZERO(unsigned char)
+                0x000000000800e6b0       0x38 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800e6b0                PITCH::stateZERO(unsigned char)
  .text._ZN5PITCH19Pitch_Out_InterfaceEh
-                0x000000000800e680       0xd8 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800e680                PITCH::Pitch_Out_Interface(unsigned char)
+                0x000000000800e6e8       0xd8 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800e6e8                PITCH::Pitch_Out_Interface(unsigned char)
  .text._ZN5PITCH10set_SMCrefEf
-                0x000000000800e758       0x2c CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                0x000000000800e758                PITCH::set_SMCref(float)
+                0x000000000800e7c0       0x2c CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800e7c0                PITCH::set_SMCref(float)
  .text._Z41__static_initialization_and_destruction_0ii
-                0x000000000800e784      0x144 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800e7ec      0x148 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
  .text._GLOBAL__sub_I_Pitch
-                0x000000000800e8c8       0x10 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x000000000800e934       0x10 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
  .text._ZSt3absl
-                0x000000000800e8d8       0x1c CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800e8d8                std::abs(long)
+                0x000000000800e944       0x1c CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800e944                std::abs(long)
  .text._ZN10._anon_195C2Ev
-                0x000000000800e8f4       0x34 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800e960       0x34 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
  .text._ZN18UpDown_check_classC2Eb
-                0x000000000800e928       0x20 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800e928                UpDown_check_class::UpDown_check_class(bool)
-                0x000000000800e928                UpDown_check_class::UpDown_check_class(bool)
+                0x000000000800e994       0x20 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800e994                UpDown_check_class::UpDown_check_class(bool)
+                0x000000000800e994                UpDown_check_class::UpDown_check_class(bool)
  .text._ZN18UpDown_check_class6updataEb
-                0x000000000800e948       0x62 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800e948                UpDown_check_class::updata(bool)
- *fill*         0x000000000800e9aa        0x2 
+                0x000000000800e9b4       0x62 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800e9b4                UpDown_check_class::updata(bool)
+ *fill*         0x000000000800ea16        0x2 
  .text._ZN3MCLC2Ev
-                0x000000000800e9ac       0x60 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800e9ac                MCL::MCL()
-                0x000000000800e9ac                MCL::MCL()
+                0x000000000800ea18       0x60 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800ea18                MCL::MCL()
+                0x000000000800ea18                MCL::MCL()
  .text._ZN2BP6EnergyC2Ev
-                0x000000000800ea0c       0x68 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800ea0c                BP::Energy::Energy()
-                0x000000000800ea0c                BP::Energy::Energy()
+                0x000000000800ea78       0x68 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800ea78                BP::Energy::Energy()
+                0x000000000800ea78                BP::Energy::Energy()
  .text._ZN2BPC2Ev
-                0x000000000800ea74      0x108 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800ea74                BP::BP()
-                0x000000000800ea74                BP::BP()
+                0x000000000800eae0      0x108 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800eae0                BP::BP()
+                0x000000000800eae0                BP::BP()
  .text._ZN9PID_classC2Efffffffff
-                0x000000000800eb7c       0x90 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800eb7c                PID_class::PID_class(float, float, float, float, float, float, float, float, float)
-                0x000000000800eb7c                PID_class::PID_class(float, float, float, float, float, float, float, float, float)
+                0x000000000800ebe8       0x90 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800ebe8                PID_class::PID_class(float, float, float, float, float, float, float, float, float)
+                0x000000000800ebe8                PID_class::PID_class(float, float, float, float, float, float, float, float, float)
  .text._ZL12ramp_towardsfff
-                0x000000000800ec0c       0x78 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800ec78       0x78 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
  .text._ZN3MCL15MCL_while_layerEh
-                0x000000000800ec84       0xdc CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800ec84                MCL::MCL_while_layer(unsigned char)
+                0x000000000800ecf0       0xdc CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800ecf0                MCL::MCL_while_layer(unsigned char)
  .text._ZN3MCL8MCL_dealEh
-                0x000000000800ed60      0x294 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800ed60                MCL::MCL_deal(unsigned char)
+                0x000000000800edcc      0x294 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800edcc                MCL::MCL_deal(unsigned char)
  .text._ZL11stateFuncOfN2BP8FsmStateE
-                0x000000000800eff4       0x48 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800f060       0x48 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
  .text._ZN2BP11switchStateENS_8FsmStateE
-                0x000000000800f03c       0x6c CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800f03c                BP::switchState(BP::FsmState)
+                0x000000000800f0a8       0x6c CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800f0a8                BP::switchState(BP::FsmState)
  .text._ZL15runCurrentStateP2BP
-                0x000000000800f0a8       0x7c CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800f114       0x7c CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
  .text._ZN2BP9stateZEROEv
-                0x000000000800f124       0x26 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800f124                BP::stateZERO()
- *fill*         0x000000000800f14a        0x2 
+                0x000000000800f190       0x26 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800f190                BP::stateZERO()
+ *fill*         0x000000000800f1b6        0x2 
  .text._ZN2BP12stateOneShotEv
-                0x000000000800f14c       0x7c CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800f14c                BP::stateOneShot()
+                0x000000000800f1b8       0x7c CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800f1b8                BP::stateOneShot()
  .text._ZN2BP15stateContinuousEv
-                0x000000000800f1c8       0x7c CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800f1c8                BP::stateContinuous()
+                0x000000000800f234       0x7c CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800f234                BP::stateContinuous()
  .text._ZN2BP13stateRecoveryEv
-                0x000000000800f244       0xe4 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800f244                BP::stateRecovery()
+                0x000000000800f2b0       0xe4 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800f2b0                BP::stateRecovery()
+ *fill*         0x000000000800f394        0x4 
  .text._ZN2BP16BP_Out_InterfaceEhh
-                0x000000000800f328      0x77c CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800f328                BP::BP_Out_Interface(unsigned char, unsigned char)
+                0x000000000800f398      0x76c CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800f398                BP::BP_Out_Interface(unsigned char, unsigned char)
  .text._ZN2BP14Start_RecoveryEddh
-                0x000000000800faa4       0x8a CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800faa4                BP::Start_Recovery(double, double, unsigned char)
+                0x000000000800fb04       0x8a CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800fb04                BP::Start_Recovery(double, double, unsigned char)
  .text._ZN2BP13Stop_RecoveryEd
-                0x000000000800fb2e       0x70 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800fb2e                BP::Stop_Recovery(double)
- *fill*         0x000000000800fb9e        0x2 
+                0x000000000800fb8e       0x70 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800fb8e                BP::Stop_Recovery(double)
+ *fill*         0x000000000800fbfe        0x2 
  .text._ZN2BP14BP_while_layerEv
-                0x000000000800fba0       0xa8 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800fba0                BP::BP_while_layer()
+                0x000000000800fc00       0xa8 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800fc00                BP::BP_while_layer()
  .text._ZN2BP11BP_time_outEv
-                0x000000000800fc48      0x230 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800fc48                BP::BP_time_out()
+                0x000000000800fca8      0x230 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800fca8                BP::BP_time_out()
  .text._ZN2BP7BP_dealEhh
-                0x000000000800fe78       0x2a CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                0x000000000800fe78                BP::BP_deal(unsigned char, unsigned char)
- *fill*         0x000000000800fea2        0x2 
+                0x000000000800fed8       0x2a CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800fed8                BP::BP_deal(unsigned char, unsigned char)
+ *fill*         0x000000000800ff02        0x2 
  .text._Z41__static_initialization_and_destruction_0ii
-                0x000000000800fea4      0x1c8 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x000000000800ff04      0x1c8 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
  .text._GLOBAL__sub_I_M3508_MCL_Left_Speed
-                0x000000000801006c       0x10 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x00000000080100cc       0x10 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
  .text._ZN10._anon_195C2Ev
-                0x000000000801007c       0x34 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x00000000080100dc       0x34 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
  .text._ZN3YAWC2Ev
-                0x00000000080100b0       0xb8 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x00000000080100b0                YAW::YAW()
-                0x00000000080100b0                YAW::YAW()
+                0x0000000008010110       0xb8 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x0000000008010110                YAW::YAW()
+                0x0000000008010110                YAW::YAW()
  .text._ZL14max_short_mangff
-                0x0000000008010168       0x88 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x00000000080101c8       0x88 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
  .text._Z13gm6020to_torqf
-                0x00000000080101f0       0x50 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x00000000080101f0                gm6020to_torq(float)
+                0x0000000008010250       0x50 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x0000000008010250                gm6020to_torq(float)
  .text._ZN3YAW10set_SMCrefEf
-                0x0000000008010240       0x40 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x0000000008010240                YAW::set_SMCref(float)
+                0x00000000080102a0       0x40 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x00000000080102a0                YAW::set_SMCref(float)
  .text._ZN3YAW11stateFuncOfENS_5StateE
-                0x0000000008010280       0x48 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x0000000008010280                YAW::stateFuncOf(YAW::State)
+                0x00000000080102e0       0x48 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x00000000080102e0                YAW::stateFuncOf(YAW::State)
  .text._ZN3YAW11switchStateENS_5StateE
-                0x00000000080102c8       0x68 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x00000000080102c8                YAW::switchState(YAW::State)
+                0x0000000008010328       0x68 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x0000000008010328                YAW::switchState(YAW::State)
  .text._ZN3YAW15runCurrentStateEh
-                0x0000000008010330       0x7a CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x0000000008010330                YAW::runCurrentState(unsigned char)
- *fill*         0x00000000080103aa        0x2 
+                0x0000000008010390       0x7a CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x0000000008010390                YAW::runCurrentState(unsigned char)
+ *fill*         0x000000000801040a        0x2 
  .text._ZN3YAW17updateEncoderMangEf
-                0x00000000080103ac       0xbc CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x00000000080103ac                YAW::updateEncoderMang(float)
+                0x000000000801040c       0xbc CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x000000000801040c                YAW::updateEncoderMang(float)
  .text._ZN3YAW11stateNORMALEh
-                0x0000000008010468      0x2e4 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x0000000008010468                YAW::stateNORMAL(unsigned char)
+                0x00000000080104c8      0x2cc CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x00000000080104c8                YAW::stateNORMAL(unsigned char)
  .text._ZN3YAW12stateENCODEREh
-                0x000000000801074c      0x114 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x000000000801074c                YAW::stateENCODER(unsigned char)
+                0x0000000008010794      0x114 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x0000000008010794                YAW::stateENCODER(unsigned char)
  .text._ZN3YAW12stateAUTO_ZMEh
-                0x0000000008010860       0x90 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x0000000008010860                YAW::stateAUTO_ZM(unsigned char)
+                0x00000000080108a8       0x90 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x00000000080108a8                YAW::stateAUTO_ZM(unsigned char)
  .text._ZN3YAW12stateSTANDUPEh
-                0x00000000080108f0      0x130 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x00000000080108f0                YAW::stateSTANDUP(unsigned char)
+                0x0000000008010938      0x130 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x0000000008010938                YAW::stateSTANDUP(unsigned char)
  .text._ZN3YAW12stateBACKINGEh
-                0x0000000008010a20       0xc4 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x0000000008010a20                YAW::stateBACKING(unsigned char)
+                0x0000000008010a68       0xc4 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x0000000008010a68                YAW::stateBACKING(unsigned char)
  .text._ZN3YAW9stateZEROEh
-                0x0000000008010ae4       0x68 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x0000000008010ae4                YAW::stateZERO(unsigned char)
+                0x0000000008010b2c       0x68 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x0000000008010b2c                YAW::stateZERO(unsigned char)
  .text._ZN3YAW17Yaw_Out_InterfaceEh
-                0x0000000008010b4c      0x150 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                0x0000000008010b4c                YAW::Yaw_Out_Interface(unsigned char)
+                0x0000000008010b94      0x150 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x0000000008010b94                YAW::Yaw_Out_Interface(unsigned char)
  .text._Z41__static_initialization_and_destruction_0ii
-                0x0000000008010c9c      0x14c CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x0000000008010ce4      0x148 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
  .text._GLOBAL__sub_I_UD_Yaw_Back
-                0x0000000008010de8       0x10 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x0000000008010e2c       0x10 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
  .text.__NVIC_SystemReset
-                0x0000000008010df8       0x2c CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008010e3c       0x2c CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
  .text._ZN8USER_CANC2EP17CAN_HandleTypeDefb
-                0x0000000008010e24       0x2a CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008010e24                USER_CAN::USER_CAN(CAN_HandleTypeDef*, bool)
-                0x0000000008010e24                USER_CAN::USER_CAN(CAN_HandleTypeDef*, bool)
+                0x0000000008010e68       0x2a CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008010e68                USER_CAN::USER_CAN(CAN_HandleTypeDef*, bool)
+                0x0000000008010e68                USER_CAN::USER_CAN(CAN_HandleTypeDef*, bool)
  .text._ZN2RCC2EP20__UART_HandleTypeDefS1_
-                0x0000000008010e4e       0x30 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008010e4e                RC::RC(__UART_HandleTypeDef*, __UART_HandleTypeDef*)
-                0x0000000008010e4e                RC::RC(__UART_HandleTypeDef*, __UART_HandleTypeDef*)
+                0x0000000008010e92       0x30 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008010e92                RC::RC(__UART_HandleTypeDef*, __UART_HandleTypeDef*)
+                0x0000000008010e92                RC::RC(__UART_HandleTypeDef*, __UART_HandleTypeDef*)
  .text._ZN25YKStateTransitionDetectorC2Et
-                0x0000000008010e7e       0x20 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008010e7e                YKStateTransitionDetector::YKStateTransitionDetector(unsigned short)
-                0x0000000008010e7e                YKStateTransitionDetector::YKStateTransitionDetector(unsigned short)
+                0x0000000008010ec2       0x20 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008010ec2                YKStateTransitionDetector::YKStateTransitionDetector(unsigned short)
+                0x0000000008010ec2                YKStateTransitionDetector::YKStateTransitionDetector(unsigned short)
  .text._ZN25YKStateTransitionDetector6updateEt
-                0x0000000008010e9e       0x3c CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008010e9e                YKStateTransitionDetector::update(unsigned short)
+                0x0000000008010ee2       0x3c CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008010ee2                YKStateTransitionDetector::update(unsigned short)
  .text._ZN25YKStateTransitionDetector17getTransitionTypeEtt
-                0x0000000008010eda       0x6c CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008010eda                YKStateTransitionDetector::getTransitionType(unsigned short, unsigned short)
- *fill*         0x0000000008010f46        0x2 
+                0x0000000008010f1e       0x6c CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008010f1e                YKStateTransitionDetector::getTransitionType(unsigned short, unsigned short)
+ *fill*         0x0000000008010f8a        0x2 
  .text._ZN10._anon_237C2Ev
-                0x0000000008010f48       0x34 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008010f8c       0x34 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
  .text._ZN6BMI088C2EP19__SPI_HandleTypeDefP17TIM_HandleTypeDefP12GPIO_TypeDeftS5_ttf23BMI088_GyroRangeTypeDef22BMI088_AccRangeTypeDef
-                0x0000000008010f7c       0xbc CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008010f7c                BMI088::BMI088(__SPI_HandleTypeDef*, TIM_HandleTypeDef*, GPIO_TypeDef*, unsigned short, GPIO_TypeDef*, unsigned short, unsigned short, float, BMI088_GyroRangeTypeDef, BMI088_AccRangeTypeDef)
-                0x0000000008010f7c                BMI088::BMI088(__SPI_HandleTypeDef*, TIM_HandleTypeDef*, GPIO_TypeDef*, unsigned short, GPIO_TypeDef*, unsigned short, unsigned short, float, BMI088_GyroRangeTypeDef, BMI088_AccRangeTypeDef)
+                0x0000000008010fc0       0xbc CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008010fc0                BMI088::BMI088(__SPI_HandleTypeDef*, TIM_HandleTypeDef*, GPIO_TypeDef*, unsigned short, GPIO_TypeDef*, unsigned short, unsigned short, float, BMI088_GyroRangeTypeDef, BMI088_AccRangeTypeDef)
+                0x0000000008010fc0                BMI088::BMI088(__SPI_HandleTypeDef*, TIM_HandleTypeDef*, GPIO_TypeDef*, unsigned short, GPIO_TypeDef*, unsigned short, unsigned short, float, BMI088_GyroRangeTypeDef, BMI088_AccRangeTypeDef)
  .text._ZN10Vision_LPFC2Efff
-                0x0000000008011038       0x3c CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008011038                Vision_LPF::Vision_LPF(float, float, float)
-                0x0000000008011038                Vision_LPF::Vision_LPF(float, float, float)
+                0x000000000801107c       0x3c CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x000000000801107c                Vision_LPF::Vision_LPF(float, float, float)
+                0x000000000801107c                Vision_LPF::Vision_LPF(float, float, float)
  .text._ZN8MOTOR_DMC2EtP8USER_CAN
-                0x0000000008011074       0xa0 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008011074                MOTOR_DM::MOTOR_DM(unsigned short, USER_CAN*)
-                0x0000000008011074                MOTOR_DM::MOTOR_DM(unsigned short, USER_CAN*)
+                0x00000000080110b8       0xa0 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x00000000080110b8                MOTOR_DM::MOTOR_DM(unsigned short, USER_CAN*)
+                0x00000000080110b8                MOTOR_DM::MOTOR_DM(unsigned short, USER_CAN*)
  .text._ZN8MOTOR_RMC2EtP8USER_CAN
-                0x0000000008011114       0x28 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008011114                MOTOR_RM::MOTOR_RM(unsigned short, USER_CAN*)
-                0x0000000008011114                MOTOR_RM::MOTOR_RM(unsigned short, USER_CAN*)
+                0x0000000008011158       0x28 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008011158                MOTOR_RM::MOTOR_RM(unsigned short, USER_CAN*)
+                0x0000000008011158                MOTOR_RM::MOTOR_RM(unsigned short, USER_CAN*)
  .text._ZL9MODE_DEALv
-                0x000000000801113c      0x2a0 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008011180      0x2a0 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
  .text._ZL21can2_communicate_dealv
-                0x00000000080113dc      0x210 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008011420      0x210 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
  .text._ZL12jianshu_dealv
-                0x00000000080115ec      0x2c8 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008011630      0x25c CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
  .text._ZL10start_dealv
-                0x00000000080118b4      0x150 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x000000000801188c      0x150 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
  .text._ZL13ZM_Angle_Dealfff
-                0x0000000008011a04       0x90 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x00000000080119dc       0x90 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
  .text.App_Gimbal_Init
-                0x0000000008011a94       0x30 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008011a94                App_Gimbal_Init
+                0x0000000008011a6c       0x30 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008011a6c                App_Gimbal_Init
  .text.App_Gimbal_Loop
-                0x0000000008011ac4       0x78 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008011ac4                App_Gimbal_Loop
+                0x0000000008011a9c       0x78 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008011a9c                App_Gimbal_Loop
  .text.App_Gimbal_TIM_PeriodElapsedCallback
-                0x0000000008011b3c      0x2a0 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008011b3c                App_Gimbal_TIM_PeriodElapsedCallback
+                0x0000000008011b14      0x318 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008011b14                App_Gimbal_TIM_PeriodElapsedCallback
  .text.App_Gimbal_CAN1_RxFifo0Callback
-                0x0000000008011ddc       0x94 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008011ddc                App_Gimbal_CAN1_RxFifo0Callback
+                0x0000000008011e2c       0x94 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008011e2c                App_Gimbal_CAN1_RxFifo0Callback
  .text.App_Gimbal_CAN2_RxFifo1Callback
-                0x0000000008011e70       0xd8 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008011e70                App_Gimbal_CAN2_RxFifo1Callback
+                0x0000000008011ec0       0xd8 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008011ec0                App_Gimbal_CAN2_RxFifo1Callback
  .text.App_Gimbal_USART1_IRQHandler
-                0x0000000008011f48      0x138 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008011f48                App_Gimbal_USART1_IRQHandler
+                0x0000000008011f98      0x138 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008011f98                App_Gimbal_USART1_IRQHandler
  .text.App_Gimbal_USART2_IRQHandler
-                0x0000000008012080      0x254 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000008012080                App_Gimbal_USART2_IRQHandler
+                0x00000000080120d0      0x254 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x00000000080120d0                App_Gimbal_USART2_IRQHandler
  .text._Z41__static_initialization_and_destruction_0ii
-                0x00000000080122d4      0x248 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008012324      0x254 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
  .text._GLOBAL__sub_I_CAN_1
-                0x000000000801251c       0x10 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000008012578       0x10 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
  .text._ZN10._anon_195C2Ev
-                0x000000000801252c       0x34 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
- .text.main     0x0000000008012560       0x5a CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
-                0x0000000008012560                main
+                0x0000000008012588       0x34 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+ .text.main     0x00000000080125bc       0x5a CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+                0x00000000080125bc                main
  .text.HAL_CAN_RxFifo0MsgPendingCallback
-                0x00000000080125ba       0x16 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
-                0x00000000080125ba                HAL_CAN_RxFifo0MsgPendingCallback
+                0x0000000008012616       0x16 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+                0x0000000008012616                HAL_CAN_RxFifo0MsgPendingCallback
  .text.HAL_CAN_RxFifo1MsgPendingCallback
-                0x00000000080125d0       0x16 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
-                0x00000000080125d0                HAL_CAN_RxFifo1MsgPendingCallback
+                0x000000000801262c       0x16 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+                0x000000000801262c                HAL_CAN_RxFifo1MsgPendingCallback
  .text.HAL_TIM_PeriodElapsedCallback
-                0x00000000080125e6       0x16 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
-                0x00000000080125e6                HAL_TIM_PeriodElapsedCallback
+                0x0000000008012642       0x16 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+                0x0000000008012642                HAL_TIM_PeriodElapsedCallback
  .text._Z41__static_initialization_and_destruction_0ii
-                0x00000000080125fc       0x2c CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+                0x0000000008012658       0x2c CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
  .text._GLOBAL__sub_I_main
-                0x0000000008012628       0x10 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
- .text._Znwj    0x0000000008012638       0x22 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
-                0x0000000008012638                operator new(unsigned int)
- *fill*         0x000000000801265a        0x2 
+                0x0000000008012684       0x10 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+ .text._Znwj    0x0000000008012694       0x22 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
+                0x0000000008012694                operator new(unsigned int)
+ *fill*         0x00000000080126b6        0x2 
  .text._ZSt15get_new_handlerv
-                0x000000000801265c       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
-                0x000000000801265c                std::get_new_handler()
+                0x00000000080126b8       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
+                0x00000000080126b8                std::get_new_handler()
  *(.glue_7)
- .glue_7        0x000000000801266c        0x0 linker stubs
+ .glue_7        0x00000000080126c8        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x000000000801266c        0x0 linker stubs
+ .glue_7t       0x00000000080126c8        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x000000000801266c        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .eh_frame      0x00000000080126c8        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
  *(.init)
- .init          0x000000000801266c        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
-                0x000000000801266c                _init
- .init          0x0000000008012670        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .init          0x00000000080126c8        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x00000000080126c8                _init
+ .init          0x00000000080126cc        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
  *(.fini)
- .fini          0x0000000008012678        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
-                0x0000000008012678                _fini
- .fini          0x000000000801267c        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
-                0x0000000008012684                . = ALIGN (0x4)
-                0x0000000008012684                _etext = .
+ .fini          0x00000000080126d4        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x00000000080126d4                _fini
+ .fini          0x00000000080126d8        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x00000000080126e0                . = ALIGN (0x4)
+                0x00000000080126e0                _etext = .
 
-.vfp11_veneer   0x0000000008012684        0x0
- .vfp11_veneer  0x0000000008012684        0x0 linker stubs
+.vfp11_veneer   0x00000000080126e0        0x0
+ .vfp11_veneer  0x00000000080126e0        0x0 linker stubs
 
-.v4_bx          0x0000000008012684        0x0
- .v4_bx         0x0000000008012684        0x0 linker stubs
+.v4_bx          0x00000000080126e0        0x0
+ .v4_bx         0x00000000080126e0        0x0 linker stubs
 
-.iplt           0x0000000008012684        0x0
- .iplt          0x0000000008012684        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+.iplt           0x00000000080126e0        0x0
+ .iplt          0x00000000080126e0        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 
-.rodata         0x0000000008012684      0xb34
-                0x0000000008012684                . = ALIGN (0x4)
+.rodata         0x00000000080126e0      0xb34
+                0x00000000080126e0                . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x0000000008012684       0xd0 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/RM_Lib.cpp.obj
- .rodata        0x0000000008012754      0x6ff CMakeFiles/Gimbal_V1.1.dir/CH010/hipnuc_dec.c.obj
- *fill*         0x0000000008012e53        0x1 
- .rodata        0x0000000008012e54       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
- .rodata        0x0000000008012e6c       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
- .rodata        0x0000000008012e8c       0x60 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
-                0x0000000008012e8c                __sf_fake_stderr
-                0x0000000008012eac                __sf_fake_stdout
-                0x0000000008012ecc                __sf_fake_stdin
+ .rodata        0x00000000080126e0       0xd0 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/RM_Lib.cpp.obj
+ .rodata        0x00000000080127b0      0x6ff CMakeFiles/Gimbal_V1.1.dir/CH010/hipnuc_dec.c.obj
+ *fill*         0x0000000008012eaf        0x1 
+ .rodata        0x0000000008012eb0       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
+ .rodata        0x0000000008012ec8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
+ .rodata        0x0000000008012ee8       0x60 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000008012ee8                __sf_fake_stderr
+                0x0000000008012f08                __sf_fake_stdout
+                0x0000000008012f28                __sf_fake_stdin
  *(.rodata*)
  .rodata.AHBPrescTable
-                0x0000000008012eec       0x10 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
-                0x0000000008012eec                AHBPrescTable
+                0x0000000008012f48       0x10 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
+                0x0000000008012f48                AHBPrescTable
  .rodata.APBPrescTable
-                0x0000000008012efc        0x8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
-                0x0000000008012efc                APBPrescTable
+                0x0000000008012f58        0x8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
+                0x0000000008012f58                APBPrescTable
  .rodata.flagBitshiftOffset.0
-                0x0000000008012f04        0x8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x0000000008012f60        0x8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .rodata._ZL11CRC16_TABLE
-                0x0000000008012f0c      0x200 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/communication.c.obj
+                0x0000000008012f68      0x200 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/communication.c.obj
  .rodata._ZL20kPitchStateFuncTable
-                0x000000000801310c       0x20 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x0000000008013168       0x20 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
  .rodata._ZL17kBPStateFuncTable
-                0x000000000801312c       0x20 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x0000000008013188       0x20 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
  .rodata._ZL18kYawStateFuncTable
-                0x000000000801314c       0x30 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x00000000080131a8       0x30 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
  .rodata.str1.4
-                0x000000000801317c        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_asin.o)
+                0x00000000080131d8        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_asin.o)
                                           0x1 (size before relaxing)
  .rodata.str1.4
-                0x000000000801317c       0x13 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
- *fill*         0x000000000801318f        0x1 
+                0x00000000080131d8       0x13 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
+ *fill*         0x00000000080131eb        0x1 
  .rodata.str1.4
-                0x0000000008013190       0x25 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
-                0x00000000080131b8                . = ALIGN (0x4)
- *fill*         0x00000000080131b5        0x3 
+                0x00000000080131ec       0x25 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000008013214                . = ALIGN (0x4)
+ *fill*         0x0000000008013211        0x3 
 
-.ARM.extab      0x00000000080131b8        0x0
-                0x00000000080131b8                . = ALIGN (0x4)
+.ARM.extab      0x0000000008013214        0x0
+                0x0000000008013214                . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x00000000080131b8                . = ALIGN (0x4)
+                0x0000000008013214                . = ALIGN (0x4)
 
-.ARM            0x00000000080131b8        0x8
-                0x00000000080131b8                . = ALIGN (0x4)
-                0x00000000080131b8                __exidx_start = .
+.ARM            0x0000000008013214        0x8
+                0x0000000008013214                . = ALIGN (0x4)
+                0x0000000008013214                __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x00000000080131b8        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
-                0x00000000080131c0                __exidx_end = .
-                0x00000000080131c0                . = ALIGN (0x4)
+ .ARM.exidx     0x0000000008013214        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                0x000000000801321c                __exidx_end = .
+                0x000000000801321c                . = ALIGN (0x4)
 
-.preinit_array  0x00000000080131c0        0x0
-                0x00000000080131c0                . = ALIGN (0x4)
-                0x00000000080131c0                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x000000000801321c        0x0
+                0x000000000801321c                . = ALIGN (0x4)
+                0x000000000801321c                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x00000000080131c0                PROVIDE (__preinit_array_end = .)
-                0x00000000080131c0                . = ALIGN (0x4)
+                0x000000000801321c                PROVIDE (__preinit_array_end = .)
+                0x000000000801321c                . = ALIGN (0x4)
 
-.init_array     0x00000000080131c0       0x34
-                0x00000000080131c0                . = ALIGN (0x4)
-                0x00000000080131c0                PROVIDE (__init_array_start = .)
+.init_array     0x000000000801321c       0x34
+                0x000000000801321c                . = ALIGN (0x4)
+                0x000000000801321c                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x00000000080131c0        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
- .init_array    0x00000000080131c4        0x4 CMakeFiles/Gimbal_V1.1.dir/Core/Src/stm32f4xx_it.c.obj
- .init_array    0x00000000080131c8        0x4 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/communication.c.obj
- .init_array    0x00000000080131cc        0x4 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/RM_Lib.cpp.obj
- .init_array    0x00000000080131d0        0x4 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
- .init_array    0x00000000080131d4        0x4 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
- .init_array    0x00000000080131d8        0x4 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
- .init_array    0x00000000080131dc        0x4 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
- .init_array    0x00000000080131e0        0x4 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
- .init_array    0x00000000080131e4        0x4 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
- .init_array    0x00000000080131e8        0x4 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
- .init_array    0x00000000080131ec        0x4 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
- .init_array    0x00000000080131f0        0x4 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
-                0x00000000080131f4                PROVIDE (__init_array_end = .)
-                0x00000000080131f4                . = ALIGN (0x4)
+ .init_array    0x000000000801321c        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .init_array    0x0000000008013220        0x4 CMakeFiles/Gimbal_V1.1.dir/Core/Src/stm32f4xx_it.c.obj
+ .init_array    0x0000000008013224        0x4 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/communication.c.obj
+ .init_array    0x0000000008013228        0x4 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/RM_Lib.cpp.obj
+ .init_array    0x000000000801322c        0x4 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
+ .init_array    0x0000000008013230        0x4 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
+ .init_array    0x0000000008013234        0x4 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
+ .init_array    0x0000000008013238        0x4 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
+ .init_array    0x000000000801323c        0x4 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+ .init_array    0x0000000008013240        0x4 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+ .init_array    0x0000000008013244        0x4 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+ .init_array    0x0000000008013248        0x4 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+ .init_array    0x000000000801324c        0x4 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+                0x0000000008013250                PROVIDE (__init_array_end = .)
+                0x0000000008013250                . = ALIGN (0x4)
 
-.fini_array     0x00000000080131f4        0x4
-                0x00000000080131f4                . = ALIGN (0x4)
-                0x00000000080131f4                PROVIDE (__fini_array_start = .)
+.fini_array     0x0000000008013250        0x4
+                0x0000000008013250                . = ALIGN (0x4)
+                0x0000000008013250                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x00000000080131f4        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
-                0x00000000080131f8                PROVIDE (__fini_array_end = .)
-                0x00000000080131f8                . = ALIGN (0x4)
-                0x00000000080131f8                _siccmram = LOADADDR (.ccmram)
+ .fini_array    0x0000000008013250        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000008013254                PROVIDE (__fini_array_end = .)
+                0x0000000008013254                . = ALIGN (0x4)
+                0x0000000008013254                _siccmram = LOADADDR (.ccmram)
 
-.rel.dyn        0x00000000080131f8        0x0
- .rel.iplt      0x00000000080131f8        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+.rel.dyn        0x0000000008013254        0x0
+ .rel.iplt      0x0000000008013254        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 
-.ccmram         0x0000000010000000        0x0 load address 0x00000000080131f8
+.ccmram         0x0000000010000000        0x0 load address 0x0000000008013254
                 0x0000000010000000                . = ALIGN (0x4)
                 0x0000000010000000                _sccmram = .
  *(.ccmram)
  *(.ccmram*)
                 0x0000000010000000                . = ALIGN (0x4)
                 0x0000000010000000                _eccmram = .
-                0x00000000080131f8                _sidata = LOADADDR (.data)
+                0x0000000008013254                _sidata = LOADADDR (.data)
 
-.data           0x0000000020000000       0x84 load address 0x00000000080131f8
+.data           0x0000000020000000       0x84 load address 0x0000000008013254
                 0x0000000020000000                . = ALIGN (0x4)
                 0x0000000020000000                _sdata = .
  *(.data)
@@ -9410,16 +9414,16 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
  *fill*         0x0000000020000081        0x3 
 
 .tm_clone_table
-                0x0000000020000084        0x0 load address 0x000000000801327c
+                0x0000000020000084        0x0 load address 0x00000000080132d8
  .tm_clone_table
                 0x0000000020000084        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
  .tm_clone_table
                 0x0000000020000084        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
 
-.igot.plt       0x0000000020000084        0x0 load address 0x000000000801327c
+.igot.plt       0x0000000020000084        0x0 load address 0x00000000080132d8
  .igot.plt      0x0000000020000084        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 
-.tdata          0x0000000020000084        0x0 load address 0x000000000801327c
+.tdata          0x0000000020000084        0x0 load address 0x00000000080132d8
  *(.tdata .tdata.* .gnu.linkonce.td.*)
                 0x0000000020000084                . = ALIGN (0x4)
                 0x0000000020000084                _edata = .
@@ -9436,7 +9440,7 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
                 [!provide]                        PROVIDE (__data_source_end = __tdata_source_end)
                 [!provide]                        PROVIDE (__data_source_size = (__data_source_end - __data_source))
 
-.tbss           0x0000000020000084        0x0 load address 0x000000000801327c
+.tbss           0x0000000020000084        0x0 load address 0x00000000080132d8
                 0x0000000020000084                _sbss = .
                 0x0000000020000084                __bss_start__ = _sbss
  *(.tbss .tbss.*)
@@ -9453,7 +9457,7 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
                 [!provide]                        PROVIDE (__arm32_tls_tcb_offset = MAX (0x8, __tls_align))
                 [!provide]                        PROVIDE (__arm64_tls_tcb_offset = MAX (0x10, __tls_align))
 
-.bss            0x0000000020000088     0x1dc4 load address 0x000000000801327c
+.bss            0x0000000020000088     0x1dc8 load address 0x00000000080132d8
  *(.bss)
  .bss           0x0000000020000088       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
  .bss           0x00000000200000a4        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
@@ -9826,53 +9830,60 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
                 0x0000000020001e1c        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
                 0x0000000020001e1c                UD_GenSui_chance
  *fill*         0x0000000020001e1d        0x3 
+ .bss.buff_change_buf
+                0x0000000020001e20        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000020001e20                buff_change_buf
+ *fill*         0x0000000020001e21        0x3 
  .bss.YK_MODE_SW_C_N
-                0x0000000020001e20        0x2 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000020001e20                YK_MODE_SW_C_N
- *fill*         0x0000000020001e22        0x2 
- .bss.YK_MODE_SW_C_S
                 0x0000000020001e24        0x2 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000020001e24                YK_MODE_SW_C_S
+                0x0000000020001e24                YK_MODE_SW_C_N
  *fill*         0x0000000020001e26        0x2 
- .bss.YK_MODE_SW_N_C
+ .bss.YK_MODE_SW_C_S
                 0x0000000020001e28        0x2 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000020001e28                YK_MODE_SW_N_C
+                0x0000000020001e28                YK_MODE_SW_C_S
  *fill*         0x0000000020001e2a        0x2 
- .bss.YK_MODE_SW_S_C
+ .bss.YK_MODE_SW_N_C
                 0x0000000020001e2c        0x2 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                0x0000000020001e2c                YK_MODE_SW_S_C
+                0x0000000020001e2c                YK_MODE_SW_N_C
+ *fill*         0x0000000020001e2e        0x2 
+ .bss.YK_MODE_SW_S_C
+                0x0000000020001e30        0x2 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000020001e30                YK_MODE_SW_S_C
  .bss._ZZL21can2_communicate_dealvE4flag
-                0x0000000020001e2e        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
- .bss._ZZL10start_dealvE4open
-                0x0000000020001e2f        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
- .bss._ZZL10start_dealvE17bmi088_error_make
-                0x0000000020001e30        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
- .bss._ZZ36App_Gimbal_TIM_PeriodElapsedCallbackE13re_start_flag
-                0x0000000020001e31        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
- .bss._ZZ36App_Gimbal_TIM_PeriodElapsedCallbackE10motor_flag
                 0x0000000020001e32        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
- .bss._ZZ36App_Gimbal_TIM_PeriodElapsedCallbackE12dm_send_flag
+ .bss._ZZL10start_dealvE4open
                 0x0000000020001e33        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
- .bss._ZZ36App_Gimbal_TIM_PeriodElapsedCallbackE8mcl_flag
+ .bss._ZZL10start_dealvE17bmi088_error_make
                 0x0000000020001e34        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
- *fill*         0x0000000020001e35        0x3 
+ .bss._ZZ36App_Gimbal_TIM_PeriodElapsedCallbackE13re_start_flag
+                0x0000000020001e35        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+ .bss._ZZ36App_Gimbal_TIM_PeriodElapsedCallbackE10motor_flag
+                0x0000000020001e36        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+ .bss._ZZ36App_Gimbal_TIM_PeriodElapsedCallbackE12dm_send_flag
+                0x0000000020001e37        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+ .bss._ZZ36App_Gimbal_TIM_PeriodElapsedCallbackE11pitch_error
+                0x0000000020001e38        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+ .bss._ZZ36App_Gimbal_TIM_PeriodElapsedCallbackE9yaw_error
+                0x0000000020001e39        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+ .bss._ZZ36App_Gimbal_TIM_PeriodElapsedCallbackE8mcl_flag
+                0x0000000020001e3a        0x1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+ *fill*         0x0000000020001e3b        0x1 
  .bss.LPF_factor
-                0x0000000020001e38       0x10 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+                0x0000000020001e3c       0x10 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
  .bss._ZN12_GLOBAL__N_113__new_handlerE
-                0x0000000020001e48        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
+                0x0000000020001e4c        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
  *(COMMON)
-                0x0000000020001e4c                . = ALIGN (0x4)
-                0x0000000020001e4c                _ebss = .
-                0x0000000020001e4c                __bss_end__ = _ebss
+                0x0000000020001e50                . = ALIGN (0x4)
+                0x0000000020001e50                _ebss = .
+                0x0000000020001e50                __bss_end__ = _ebss
                 [!provide]                        PROVIDE (__bss_end = .)
                 [!provide]                        PROVIDE (__non_tls_bss_start = ADDR (.bss))
                 [!provide]                        PROVIDE (__bss_start = __tbss_start)
                 [!provide]                        PROVIDE (__bss_size = (__bss_end - __bss_start))
 
 ._user_heap_stack
-                0x0000000020001e4c     0xbc04 load address 0x000000000801327c
+                0x0000000020001e50     0xbc00 load address 0x00000000080132d8
                 0x0000000020001e50                . = ALIGN (0x8)
- *fill*         0x0000000020001e4c        0x4 
                 [!provide]                        PROVIDE (end = .)
                 0x0000000020001e50                PROVIDE (_end = .)
                 0x0000000020005a50                . = (. + _Min_Heap_Size)
@@ -10123,7 +10134,7 @@ LOAD linker stubs
  .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
  .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
 
-.debug_info     0x0000000000000000    0x5bcbf
+.debug_info     0x0000000000000000    0x5bde3
  .debug_info    0x0000000000000000      0x50b cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
  .debug_info    0x000000000000050b      0xfe6 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .debug_info    0x00000000000014f1      0x907 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
@@ -10150,56 +10161,56 @@ LOAD linker stubs
  .debug_info    0x0000000000014d1e     0x4254 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/communication.c.obj
  .debug_info    0x0000000000018f72     0x797b CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/RM_Lib.cpp.obj
  .debug_info    0x00000000000208ed      0xff0 CMakeFiles/Gimbal_V1.1.dir/CH010/hipnuc_dec.c.obj
- .debug_info    0x00000000000218dd     0x2e8b CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
- .debug_info    0x0000000000024768     0x2958 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
- .debug_info    0x00000000000270c0     0x2ce0 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
- .debug_info    0x0000000000029da0     0x28ba CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
- .debug_info    0x000000000002c65a     0x401c CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
- .debug_info    0x0000000000030676     0x73b6 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
- .debug_info    0x0000000000037a2c     0x4beb CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
- .debug_info    0x000000000003c617     0x747e CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
- .debug_info    0x0000000000043a95     0x8a1b CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
- .debug_info    0x000000000004c4b0     0x29a1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
- .debug_info    0x000000000004ee51      0x92d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
- .debug_info    0x000000000004f77e      0x455 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
- .debug_info    0x000000000004fbd3      0x16f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_asin.o)
- .debug_info    0x000000000004fd42       0xf2 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_atan2.o)
- .debug_info    0x000000000004fe34      0x35a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_asin.o)
- .debug_info    0x000000000005018e      0x2e4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
- .debug_info    0x0000000000050472       0xc5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_sqrt.o)
- .debug_info    0x0000000000050537       0xbb /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-s_lib_ver.o)
- .debug_info    0x00000000000505f2      0x264 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
- .debug_info    0x0000000000050856      0x143 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
- .debug_info    0x0000000000050999       0xc8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_nan.o)
- .debug_info    0x0000000000050a61       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
- .debug_info    0x0000000000050a87       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
- .debug_info    0x0000000000050aad       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_cmpdf2.o)
- .debug_info    0x0000000000050ad3       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
- .debug_info    0x0000000000050af9       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
- .debug_info    0x0000000000050b1f      0x717 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
- .debug_info    0x0000000000051236       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
- .debug_info    0x000000000005125c       0xcb /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
- .debug_info    0x0000000000051327      0x7ae /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
- .debug_info    0x0000000000051ad5      0x863 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
- .debug_info    0x0000000000052338      0x11a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
- .debug_info    0x0000000000052452      0x832 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
- .debug_info    0x0000000000052c84       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
- .debug_info    0x0000000000052caa      0x137 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
- .debug_info    0x0000000000052de1      0x903 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
- .debug_info    0x00000000000536e4      0xa0c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
- .debug_info    0x00000000000540f0      0x828 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
- .debug_info    0x0000000000054918      0xdcc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
- .debug_info    0x00000000000556e4      0x871 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
- .debug_info    0x0000000000055f55      0x926 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sprintf.o)
- .debug_info    0x000000000005687b      0x7dc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
- .debug_info    0x0000000000057057     0x10d5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
- .debug_info    0x000000000005812c      0xe9e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_info    0x0000000000058fca      0xa7e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
- .debug_info    0x0000000000059a48       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
- .debug_info    0x0000000000059a6e      0x152 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
- .debug_info    0x0000000000059bc0      0x911 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
- .debug_info    0x000000000005a4d1      0xfae /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
- .debug_info    0x000000000005b47f      0x840 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_info    0x00000000000218dd     0x2ef3 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
+ .debug_info    0x00000000000247d0     0x2958 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
+ .debug_info    0x0000000000027128     0x2ce0 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
+ .debug_info    0x0000000000029e08     0x28ba CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
+ .debug_info    0x000000000002c6c2     0x401c CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+ .debug_info    0x00000000000306de     0x73da CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+ .debug_info    0x0000000000037ab8     0x4beb CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+ .debug_info    0x000000000003c6a3     0x74a2 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+ .debug_info    0x0000000000043b45     0x8a8f CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+ .debug_info    0x000000000004c5d4     0x29a1 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+ .debug_info    0x000000000004ef75      0x92d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
+ .debug_info    0x000000000004f8a2      0x455 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
+ .debug_info    0x000000000004fcf7      0x16f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_asin.o)
+ .debug_info    0x000000000004fe66       0xf2 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_atan2.o)
+ .debug_info    0x000000000004ff58      0x35a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_asin.o)
+ .debug_info    0x00000000000502b2      0x2e4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
+ .debug_info    0x0000000000050596       0xc5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_sqrt.o)
+ .debug_info    0x000000000005065b       0xbb /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-s_lib_ver.o)
+ .debug_info    0x0000000000050716      0x264 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
+ .debug_info    0x000000000005097a      0x143 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+ .debug_info    0x0000000000050abd       0xc8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_nan.o)
+ .debug_info    0x0000000000050b85       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x0000000000050bab       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x0000000000050bd1       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_cmpdf2.o)
+ .debug_info    0x0000000000050bf7       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+ .debug_info    0x0000000000050c1d       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x0000000000050c43      0x717 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_info    0x000000000005135a       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000051380       0xcb /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
+ .debug_info    0x000000000005144b      0x7ae /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .debug_info    0x0000000000051bf9      0x863 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .debug_info    0x000000000005245c      0x11a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .debug_info    0x0000000000052576      0x832 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .debug_info    0x0000000000052da8       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000052dce      0x137 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .debug_info    0x0000000000052f05      0x903 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_info    0x0000000000053808      0xa0c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_info    0x0000000000054214      0x828 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .debug_info    0x0000000000054a3c      0xdcc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .debug_info    0x0000000000055808      0x871 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+ .debug_info    0x0000000000056079      0x926 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sprintf.o)
+ .debug_info    0x000000000005699f      0x7dc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .debug_info    0x000000000005717b     0x10d5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
+ .debug_info    0x0000000000058250      0xe9e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_info    0x00000000000590ee      0xa7e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .debug_info    0x0000000000059b6c       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .debug_info    0x0000000000059b92      0x152 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .debug_info    0x0000000000059ce4      0x911 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_info    0x000000000005a5f5      0xfae /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_info    0x000000000005b5a3      0x840 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
 
 .debug_abbrev   0x0000000000000000     0xb07b
  .debug_abbrev  0x0000000000000000      0x116 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
@@ -10279,7 +10290,7 @@ LOAD linker stubs
  .debug_abbrev  0x000000000000ab1d      0x3cd /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
  .debug_abbrev  0x000000000000aeea      0x191 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
 
-.debug_aranges  0x0000000000000000     0x20f8
+.debug_aranges  0x0000000000000000     0x2100
  .debug_aranges
                 0x0000000000000000       0x28 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
  .debug_aranges
@@ -10333,107 +10344,107 @@ LOAD linker stubs
  .debug_aranges
                 0x0000000000001580       0x80 CMakeFiles/Gimbal_V1.1.dir/CH010/hipnuc_dec.c.obj
  .debug_aranges
-                0x0000000000001600       0x80 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
+                0x0000000000001600       0x88 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
  .debug_aranges
-                0x0000000000001680       0x48 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
+                0x0000000000001688       0x48 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
  .debug_aranges
-                0x00000000000016c8       0x78 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
+                0x00000000000016d0       0x78 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
  .debug_aranges
-                0x0000000000001740       0x80 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
+                0x0000000000001748       0x80 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
  .debug_aranges
-                0x00000000000017c0       0x78 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+                0x00000000000017c8       0x78 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
  .debug_aranges
-                0x0000000000001838       0xa8 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                0x0000000000001840       0xa8 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
  .debug_aranges
-                0x00000000000018e0      0x100 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                0x00000000000018e8      0x100 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
  .debug_aranges
-                0x00000000000019e0       0xd8 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                0x00000000000019e8       0xd8 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
  .debug_aranges
-                0x0000000000001ab8       0xf8 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                0x0000000000001ac0       0xf8 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
  .debug_aranges
-                0x0000000000001bb0       0x50 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+                0x0000000000001bb8       0x50 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
  .debug_aranges
-                0x0000000000001c00       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
+                0x0000000000001c08       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
  .debug_aranges
-                0x0000000000001c20       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
+                0x0000000000001c28       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
  .debug_aranges
-                0x0000000000001c48       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_asin.o)
+                0x0000000000001c50       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_asin.o)
  .debug_aranges
-                0x0000000000001c68       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_atan2.o)
+                0x0000000000001c70       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_atan2.o)
  .debug_aranges
-                0x0000000000001c88       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_asin.o)
+                0x0000000000001c90       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_asin.o)
  .debug_aranges
-                0x0000000000001ca8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
+                0x0000000000001cb0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
  .debug_aranges
-                0x0000000000001cc8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_sqrt.o)
+                0x0000000000001cd0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_sqrt.o)
  .debug_aranges
-                0x0000000000001ce8       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-s_lib_ver.o)
+                0x0000000000001cf0       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-s_lib_ver.o)
  .debug_aranges
-                0x0000000000001d00       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
+                0x0000000000001d08       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
  .debug_aranges
-                0x0000000000001d20       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+                0x0000000000001d28       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
  .debug_aranges
-                0x0000000000001d40       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_nan.o)
+                0x0000000000001d48       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_nan.o)
  .debug_aranges
-                0x0000000000001d60       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+                0x0000000000001d68       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
  .debug_aranges
-                0x0000000000001d80       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+                0x0000000000001d88       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
  .debug_aranges
-                0x0000000000001da0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_cmpdf2.o)
+                0x0000000000001da8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_cmpdf2.o)
  .debug_aranges
-                0x0000000000001dc0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+                0x0000000000001dc8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
  .debug_aranges
-                0x0000000000001de0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                0x0000000000001de8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
  .debug_aranges
-                0x0000000000001e00       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                0x0000000000001e08       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
  .debug_aranges
-                0x0000000000001e20       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                0x0000000000001e28       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
  .debug_aranges
-                0x0000000000001e40       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
+                0x0000000000001e48       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
  .debug_aranges
-                0x0000000000001e60       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+                0x0000000000001e68       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
  .debug_aranges
-                0x0000000000001e80       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+                0x0000000000001e88       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
  .debug_aranges
-                0x0000000000001e98       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+                0x0000000000001ea0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
  .debug_aranges
-                0x0000000000001eb8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+                0x0000000000001ec0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
  .debug_aranges
-                0x0000000000001ed8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+                0x0000000000001ee0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
  .debug_aranges
-                0x0000000000001ef8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+                0x0000000000001f00       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
  .debug_aranges
-                0x0000000000001f18       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+                0x0000000000001f20       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
  .debug_aranges
-                0x0000000000001f38       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000000001f40       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
  .debug_aranges
-                0x0000000000001f58       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+                0x0000000000001f60       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
  .debug_aranges
-                0x0000000000001f78       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+                0x0000000000001f80       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
  .debug_aranges
-                0x0000000000001f98       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+                0x0000000000001fa0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
  .debug_aranges
-                0x0000000000001fb8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sprintf.o)
+                0x0000000000001fc0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sprintf.o)
  .debug_aranges
-                0x0000000000001fd8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+                0x0000000000001fe0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
  .debug_aranges
-                0x0000000000001ff8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
+                0x0000000000002000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
  .debug_aranges
-                0x0000000000002018       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000002020       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
  .debug_aranges
-                0x0000000000002038       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+                0x0000000000002040       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
  .debug_aranges
-                0x0000000000002058       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+                0x0000000000002060       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
  .debug_aranges
-                0x0000000000002078       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+                0x0000000000002080       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
  .debug_aranges
-                0x0000000000002098       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+                0x00000000000020a0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
  .debug_aranges
-                0x00000000000020b8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x00000000000020c0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
  .debug_aranges
-                0x00000000000020d8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+                0x00000000000020e0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
 
-.debug_ranges   0x0000000000000000     0x1e88
+.debug_ranges   0x0000000000000000     0x1e90
  .debug_ranges  0x0000000000000000       0x18 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
  .debug_ranges  0x0000000000000018      0x128 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .debug_ranges  0x0000000000000140       0x78 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
@@ -10460,30 +10471,30 @@ LOAD linker stubs
  .debug_ranges  0x0000000000001088       0x88 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/communication.c.obj
  .debug_ranges  0x0000000000001110      0x318 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/RM_Lib.cpp.obj
  .debug_ranges  0x0000000000001428       0x70 CMakeFiles/Gimbal_V1.1.dir/CH010/hipnuc_dec.c.obj
- .debug_ranges  0x0000000000001498       0x70 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
- .debug_ranges  0x0000000000001508       0x38 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
- .debug_ranges  0x0000000000001540       0x68 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
- .debug_ranges  0x00000000000015a8       0x70 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
- .debug_ranges  0x0000000000001618       0x68 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
- .debug_ranges  0x0000000000001680       0x98 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
- .debug_ranges  0x0000000000001718      0x108 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
- .debug_ranges  0x0000000000001820       0xc8 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
- .debug_ranges  0x00000000000018e8      0x100 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
- .debug_ranges  0x00000000000019e8       0x40 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
- .debug_ranges  0x0000000000001a28       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
- .debug_ranges  0x0000000000001a38       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
- .debug_ranges  0x0000000000001a50       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_asin.o)
- .debug_ranges  0x0000000000001a68       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
- .debug_ranges  0x0000000000001a98       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_sqrt.o)
- .debug_ranges  0x0000000000001aa8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
- .debug_ranges  0x0000000000001ac8       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
- .debug_ranges  0x0000000000001ad8       0xe8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
- .debug_ranges  0x0000000000001bc0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
- .debug_ranges  0x0000000000001be0       0x38 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
- .debug_ranges  0x0000000000001c18       0xc8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
- .debug_ranges  0x0000000000001ce0       0x40 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
- .debug_ranges  0x0000000000001d20       0xa0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_ranges  0x0000000000001dc0       0xc8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_ranges  0x0000000000001498       0x78 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
+ .debug_ranges  0x0000000000001510       0x38 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
+ .debug_ranges  0x0000000000001548       0x68 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
+ .debug_ranges  0x00000000000015b0       0x70 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
+ .debug_ranges  0x0000000000001620       0x68 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+ .debug_ranges  0x0000000000001688       0x98 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+ .debug_ranges  0x0000000000001720      0x108 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+ .debug_ranges  0x0000000000001828       0xc8 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+ .debug_ranges  0x00000000000018f0      0x100 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+ .debug_ranges  0x00000000000019f0       0x40 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+ .debug_ranges  0x0000000000001a30       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
+ .debug_ranges  0x0000000000001a40       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
+ .debug_ranges  0x0000000000001a58       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_asin.o)
+ .debug_ranges  0x0000000000001a70       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
+ .debug_ranges  0x0000000000001aa0       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_sqrt.o)
+ .debug_ranges  0x0000000000001ab0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
+ .debug_ranges  0x0000000000001ad0       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+ .debug_ranges  0x0000000000001ae0       0xe8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_ranges  0x0000000000001bc8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_ranges  0x0000000000001be8       0x38 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_ranges  0x0000000000001c20       0xc8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .debug_ranges  0x0000000000001ce8       0x40 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
+ .debug_ranges  0x0000000000001d28       0xa0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_ranges  0x0000000000001dc8       0xc8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
 
 .debug_macro    0x0000000000000000    0x2b3ac
  .debug_macro   0x0000000000000000      0x199 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
@@ -10693,235 +10704,235 @@ LOAD linker stubs
  .debug_macro   0x000000000002adbc       0xa2 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
  .debug_macro   0x000000000002ae5e      0x54e CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
 
-.debug_line     0x0000000000000000    0x291ba
- .debug_line    0x0000000000000000      0x572 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
- .debug_line    0x0000000000000572      0xf5b cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
- .debug_line    0x00000000000014cd      0xb79 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_line    0x0000000000002046      0x95b cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_line    0x00000000000029a1      0xd4b cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- .debug_line    0x00000000000036ec      0xae1 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_line    0x00000000000041cd      0x7e7 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_line    0x00000000000049b4     0x1ae0 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
- .debug_line    0x0000000000006494     0x350a cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
- .debug_line    0x000000000000999e     0x17da cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- .debug_line    0x000000000000b178     0x26d8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
- .debug_line    0x000000000000d850      0x5c2 CMakeFiles/Gimbal_V1.1.dir/Core/Src/main.c.obj
- .debug_line    0x000000000000de12      0x53a CMakeFiles/Gimbal_V1.1.dir/Core/Src/gpio.c.obj
- .debug_line    0x000000000000e34c      0x611 CMakeFiles/Gimbal_V1.1.dir/Core/Src/can.c.obj
- .debug_line    0x000000000000e95d      0x50a CMakeFiles/Gimbal_V1.1.dir/Core/Src/dma.c.obj
- .debug_line    0x000000000000ee67      0x571 CMakeFiles/Gimbal_V1.1.dir/Core/Src/spi.c.obj
- .debug_line    0x000000000000f3d8      0x85d CMakeFiles/Gimbal_V1.1.dir/Core/Src/tim.c.obj
- .debug_line    0x000000000000fc35      0x877 CMakeFiles/Gimbal_V1.1.dir/Core/Src/usart.c.obj
- .debug_line    0x00000000000104ac      0xeb9 CMakeFiles/Gimbal_V1.1.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_line    0x0000000000011365      0x500 CMakeFiles/Gimbal_V1.1.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_line    0x0000000000011865      0x1c1 CMakeFiles/Gimbal_V1.1.dir/Core/Src/sysmem.c.obj
- .debug_line    0x0000000000011a26      0x4f1 CMakeFiles/Gimbal_V1.1.dir/Core/Src/syscalls.c.obj
- .debug_line    0x0000000000011f17       0x93 CMakeFiles/Gimbal_V1.1.dir/startup_stm32f405xx.s.obj
- .debug_line    0x0000000000011faa      0xe62 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/communication.c.obj
- .debug_line    0x0000000000012e0c     0x37b2 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/RM_Lib.cpp.obj
- .debug_line    0x00000000000165be     0x123a CMakeFiles/Gimbal_V1.1.dir/CH010/hipnuc_dec.c.obj
- .debug_line    0x00000000000177f8      0xe45 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
- .debug_line    0x000000000001863d      0xc88 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
- .debug_line    0x00000000000192c5     0x110a CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
- .debug_line    0x000000000001a3cf     0x1403 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
- .debug_line    0x000000000001b7d2     0x14fa CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
- .debug_line    0x000000000001cccc     0x15c0 CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
- .debug_line    0x000000000001e28c     0x18b0 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
- .debug_line    0x000000000001fb3c     0x1786 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
- .debug_line    0x00000000000212c2     0x1d3c CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
- .debug_line    0x0000000000022ffe      0xbf0 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
- .debug_line    0x0000000000023bee      0x2b1 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
- .debug_line    0x0000000000023e9f      0x253 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
- .debug_line    0x00000000000240f2      0x178 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_asin.o)
- .debug_line    0x000000000002426a       0xea /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_atan2.o)
- .debug_line    0x0000000000024354      0x303 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_asin.o)
- .debug_line    0x0000000000024657      0x2bd /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
- .debug_line    0x0000000000024914       0x77 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_sqrt.o)
- .debug_line    0x000000000002498b       0x97 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-s_lib_ver.o)
- .debug_line    0x0000000000024a22      0x2d0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
- .debug_line    0x0000000000024cf2      0x152 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
- .debug_line    0x0000000000024e44       0xac /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_nan.o)
- .debug_line    0x0000000000024ef0      0x186 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
- .debug_line    0x0000000000025076      0x19b /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
- .debug_line    0x0000000000025211       0xbd /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_cmpdf2.o)
- .debug_line    0x00000000000252ce       0x8d /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
- .debug_line    0x000000000002535b       0x60 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
- .debug_line    0x00000000000253bb      0x5ae /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
- .debug_line    0x0000000000025969       0x60 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
- .debug_line    0x00000000000259c9      0x109 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
- .debug_line    0x0000000000025ad2      0x109 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
- .debug_line    0x0000000000025bdb       0xe4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
- .debug_line    0x0000000000025cbf      0x138 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
- .debug_line    0x0000000000025df7      0x15f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
- .debug_line    0x0000000000025f56       0xbe /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
- .debug_line    0x0000000000026014      0x1bf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
- .debug_line    0x00000000000261d3      0x2ca /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
- .debug_line    0x000000000002649d      0x2d0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
- .debug_line    0x000000000002676d      0x183 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
- .debug_line    0x00000000000268f0      0x652 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
- .debug_line    0x0000000000026f42      0x1aa /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
- .debug_line    0x00000000000270ec      0x209 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sprintf.o)
- .debug_line    0x00000000000272f5      0x13e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
- .debug_line    0x0000000000027433      0x83a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
- .debug_line    0x0000000000027c6d      0x746 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_line    0x00000000000283b3      0x2c7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
- .debug_line    0x000000000002867a       0xa4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
- .debug_line    0x000000000002871e      0x1ee /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
- .debug_line    0x000000000002890c      0x1c5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
- .debug_line    0x0000000000028ad1      0x589 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
- .debug_line    0x000000000002905a      0x160 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+.debug_line     0x0000000000000000    0x2960b
+ .debug_line    0x0000000000000000      0x590 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
+ .debug_line    0x0000000000000590      0xf79 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+ .debug_line    0x0000000000001509      0xb97 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_line    0x00000000000020a0      0x979 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_line    0x0000000000002a19      0xd69 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_line    0x0000000000003782      0xaff cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_line    0x0000000000004281      0x805 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_line    0x0000000000004a86     0x1afe cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .debug_line    0x0000000000006584     0x3528 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_line    0x0000000000009aac     0x17f8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_line    0x000000000000b2a4     0x26f6 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_line    0x000000000000d99a      0x5e5 CMakeFiles/Gimbal_V1.1.dir/Core/Src/main.c.obj
+ .debug_line    0x000000000000df7f      0x558 CMakeFiles/Gimbal_V1.1.dir/Core/Src/gpio.c.obj
+ .debug_line    0x000000000000e4d7      0x62f CMakeFiles/Gimbal_V1.1.dir/Core/Src/can.c.obj
+ .debug_line    0x000000000000eb06      0x528 CMakeFiles/Gimbal_V1.1.dir/Core/Src/dma.c.obj
+ .debug_line    0x000000000000f02e      0x58f CMakeFiles/Gimbal_V1.1.dir/Core/Src/spi.c.obj
+ .debug_line    0x000000000000f5bd      0x87b CMakeFiles/Gimbal_V1.1.dir/Core/Src/tim.c.obj
+ .debug_line    0x000000000000fe38      0x895 CMakeFiles/Gimbal_V1.1.dir/Core/Src/usart.c.obj
+ .debug_line    0x00000000000106cd      0xee6 CMakeFiles/Gimbal_V1.1.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_line    0x00000000000115b3      0x51e CMakeFiles/Gimbal_V1.1.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_line    0x0000000000011ad1      0x1c6 CMakeFiles/Gimbal_V1.1.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x0000000000011c97      0x4f6 CMakeFiles/Gimbal_V1.1.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x000000000001218d       0x98 CMakeFiles/Gimbal_V1.1.dir/startup_stm32f405xx.s.obj
+ .debug_line    0x0000000000012225      0xe80 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/communication.c.obj
+ .debug_line    0x00000000000130a5     0x37d0 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/RM_Lib.cpp.obj
+ .debug_line    0x0000000000016875     0x1258 CMakeFiles/Gimbal_V1.1.dir/CH010/hipnuc_dec.c.obj
+ .debug_line    0x0000000000017acd      0xea1 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
+ .debug_line    0x000000000001896e      0xcab CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
+ .debug_line    0x0000000000019619     0x112d CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
+ .debug_line    0x000000000001a746     0x1426 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
+ .debug_line    0x000000000001bb6c     0x151d CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+ .debug_line    0x000000000001d089     0x15ed CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+ .debug_line    0x000000000001e676     0x18cc CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+ .debug_line    0x000000000001ff42     0x1785 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+ .debug_line    0x00000000000216c7     0x1d60 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+ .debug_line    0x0000000000023427      0xc18 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+ .debug_line    0x000000000002403f      0x2b1 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
+ .debug_line    0x00000000000242f0      0x253 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
+ .debug_line    0x0000000000024543      0x178 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_asin.o)
+ .debug_line    0x00000000000246bb       0xea /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_atan2.o)
+ .debug_line    0x00000000000247a5      0x303 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_asin.o)
+ .debug_line    0x0000000000024aa8      0x2bd /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
+ .debug_line    0x0000000000024d65       0x77 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_sqrt.o)
+ .debug_line    0x0000000000024ddc       0x97 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-s_lib_ver.o)
+ .debug_line    0x0000000000024e73      0x2d0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
+ .debug_line    0x0000000000025143      0x152 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+ .debug_line    0x0000000000025295       0xac /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_nan.o)
+ .debug_line    0x0000000000025341      0x186 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x00000000000254c7      0x19b /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .debug_line    0x0000000000025662       0xbd /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_cmpdf2.o)
+ .debug_line    0x000000000002571f       0x8d /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+ .debug_line    0x00000000000257ac       0x60 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x000000000002580c      0x5ae /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_line    0x0000000000025dba       0x60 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000000000025e1a      0x109 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
+ .debug_line    0x0000000000025f23      0x109 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .debug_line    0x000000000002602c       0xe4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .debug_line    0x0000000000026110      0x138 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .debug_line    0x0000000000026248      0x15f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .debug_line    0x00000000000263a7       0xbe /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+ .debug_line    0x0000000000026465      0x1bf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .debug_line    0x0000000000026624      0x2ca /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_line    0x00000000000268ee      0x2d0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_line    0x0000000000026bbe      0x183 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .debug_line    0x0000000000026d41      0x652 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .debug_line    0x0000000000027393      0x1aa /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+ .debug_line    0x000000000002753d      0x209 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sprintf.o)
+ .debug_line    0x0000000000027746      0x13e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .debug_line    0x0000000000027884      0x83a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
+ .debug_line    0x00000000000280be      0x746 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_line    0x0000000000028804      0x2c7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .debug_line    0x0000000000028acb       0xa4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .debug_line    0x0000000000028b6f      0x1ee /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .debug_line    0x0000000000028d5d      0x1c5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_line    0x0000000000028f22      0x589 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_line    0x00000000000294ab      0x160 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
 
-.debug_str      0x0000000000000000    0xd71dd
- .debug_str     0x0000000000000000    0xbc10b cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
-                                      0xbc38d (size before relaxing)
- .debug_str     0x00000000000bc10b      0x73d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                                      0xbca7b (size before relaxing)
- .debug_str     0x00000000000bc848      0x40e cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
-                                      0xbc784 (size before relaxing)
- .debug_str     0x00000000000bcc56      0x173 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
-                                      0xbc4fd (size before relaxing)
- .debug_str     0x00000000000bcdc9      0x4e3 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
-                                      0xbc79b (size before relaxing)
- .debug_str     0x00000000000bd2ac      0x8b0 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
-                                      0xbcc62 (size before relaxing)
- .debug_str     0x00000000000bdb5c      0x5b9 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                                      0xbceab (size before relaxing)
- .debug_str     0x00000000000be115      0x72b cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
-                                      0xbcc04 (size before relaxing)
- .debug_str     0x00000000000be840     0x1046 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
-                                      0xbd68d (size before relaxing)
- .debug_str     0x00000000000bf886      0x552 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
-                                      0xbce2e (size before relaxing)
- .debug_str     0x00000000000bfdd8      0x79f cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
-                                      0xbcd15 (size before relaxing)
- .debug_str     0x00000000000c0577      0x17a CMakeFiles/Gimbal_V1.1.dir/Core/Src/main.c.obj
-                                      0xbc55f (size before relaxing)
- .debug_str     0x00000000000c06f1       0x3a CMakeFiles/Gimbal_V1.1.dir/Core/Src/gpio.c.obj
-                                      0xbc440 (size before relaxing)
- .debug_str     0x00000000000c072b       0x75 CMakeFiles/Gimbal_V1.1.dir/Core/Src/can.c.obj
-                                      0xbcbc0 (size before relaxing)
- .debug_str     0x00000000000c07a0       0x38 CMakeFiles/Gimbal_V1.1.dir/Core/Src/dma.c.obj
-                                      0xbc878 (size before relaxing)
- .debug_str     0x00000000000c07d8       0x49 CMakeFiles/Gimbal_V1.1.dir/Core/Src/spi.c.obj
-                                      0xbc8a5 (size before relaxing)
- .debug_str     0x00000000000c0821       0xe8 CMakeFiles/Gimbal_V1.1.dir/Core/Src/tim.c.obj
-                                      0xbd018 (size before relaxing)
- .debug_str     0x00000000000c0909      0x122 CMakeFiles/Gimbal_V1.1.dir/Core/Src/usart.c.obj
-                                      0xbce7e (size before relaxing)
- .debug_str     0x00000000000c0a2b     0xae1f CMakeFiles/Gimbal_V1.1.dir/Core/Src/stm32f4xx_it.c.obj
-                                      0xc7c33 (size before relaxing)
- .debug_str     0x00000000000cb84a       0x3a CMakeFiles/Gimbal_V1.1.dir/Core/Src/stm32f4xx_hal_msp.c.obj
-                                      0xbc3ae (size before relaxing)
- .debug_str     0x00000000000cb884      0x5f4 CMakeFiles/Gimbal_V1.1.dir/Core/Src/sysmem.c.obj
-                                       0x554e (size before relaxing)
- .debug_str     0x00000000000cbe78     0x1c04 CMakeFiles/Gimbal_V1.1.dir/Core/Src/syscalls.c.obj
-                                       0x8329 (size before relaxing)
- .debug_str     0x00000000000cda7c       0x3f CMakeFiles/Gimbal_V1.1.dir/startup_stm32f405xx.s.obj
-                                         0x68 (size before relaxing)
- .debug_str     0x00000000000cdabb     0x103c CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/communication.c.obj
-                                      0xc802a (size before relaxing)
- .debug_str     0x00000000000ceaf7     0x1493 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/RM_Lib.cpp.obj
-                                      0xc9a97 (size before relaxing)
- .debug_str     0x00000000000cff8a      0x3c0 CMakeFiles/Gimbal_V1.1.dir/CH010/hipnuc_dec.c.obj
-                                      0xc08be (size before relaxing)
- .debug_str     0x00000000000d034a      0x2df CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
-                                      0xc6e6b (size before relaxing)
- .debug_str     0x00000000000d0629       0xf4 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
-                                      0xc6c6a (size before relaxing)
- .debug_str     0x00000000000d071d      0x1b8 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
-                                      0xc6d15 (size before relaxing)
- .debug_str     0x00000000000d08d5      0x465 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
-                                      0xc68cc (size before relaxing)
- .debug_str     0x00000000000d0d3a     0x2733 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
-                                      0xc7f26 (size before relaxing)
- .debug_str     0x00000000000d346d      0x46a CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
-                                      0xcb962 (size before relaxing)
- .debug_str     0x00000000000d38d7      0xa99 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
-                                      0xc8a08 (size before relaxing)
- .debug_str     0x00000000000d4370      0x43b CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
-                                      0xcbaa9 (size before relaxing)
- .debug_str     0x00000000000d47ab      0xd9e CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
-                                      0xcd5ae (size before relaxing)
- .debug_str     0x00000000000d5549       0x42 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
-                                      0xc6db4 (size before relaxing)
- .debug_str     0x00000000000d558b      0x1cb /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
+.debug_str      0x0000000000000000    0xd72e4
+ .debug_str     0x0000000000000000    0xbc115 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
+                                      0xbc397 (size before relaxing)
+ .debug_str     0x00000000000bc115      0x742 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                                      0xbca85 (size before relaxing)
+ .debug_str     0x00000000000bc857      0x413 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                                      0xbc78e (size before relaxing)
+ .debug_str     0x00000000000bcc6a      0x178 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                                      0xbc507 (size before relaxing)
+ .debug_str     0x00000000000bcde2      0x4e8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                                      0xbc7a5 (size before relaxing)
+ .debug_str     0x00000000000bd2ca      0x8b5 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                                      0xbcc6c (size before relaxing)
+ .debug_str     0x00000000000bdb7f      0x5be cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                                      0xbceb5 (size before relaxing)
+ .debug_str     0x00000000000be13d      0x730 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+                                      0xbcc0e (size before relaxing)
+ .debug_str     0x00000000000be86d     0x104b cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                                      0xbd697 (size before relaxing)
+ .debug_str     0x00000000000bf8b8      0x557 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+                                      0xbce38 (size before relaxing)
+ .debug_str     0x00000000000bfe0f      0x7a4 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                                      0xbcd1f (size before relaxing)
+ .debug_str     0x00000000000c05b3      0x17f CMakeFiles/Gimbal_V1.1.dir/Core/Src/main.c.obj
+                                      0xbc569 (size before relaxing)
+ .debug_str     0x00000000000c0732       0x3f CMakeFiles/Gimbal_V1.1.dir/Core/Src/gpio.c.obj
+                                      0xbc44a (size before relaxing)
+ .debug_str     0x00000000000c0771       0x7a CMakeFiles/Gimbal_V1.1.dir/Core/Src/can.c.obj
+                                      0xbcbca (size before relaxing)
+ .debug_str     0x00000000000c07eb       0x3d CMakeFiles/Gimbal_V1.1.dir/Core/Src/dma.c.obj
+                                      0xbc882 (size before relaxing)
+ .debug_str     0x00000000000c0828       0x4e CMakeFiles/Gimbal_V1.1.dir/Core/Src/spi.c.obj
+                                      0xbc8af (size before relaxing)
+ .debug_str     0x00000000000c0876       0xed CMakeFiles/Gimbal_V1.1.dir/Core/Src/tim.c.obj
+                                      0xbd022 (size before relaxing)
+ .debug_str     0x00000000000c0963      0x127 CMakeFiles/Gimbal_V1.1.dir/Core/Src/usart.c.obj
+                                      0xbce88 (size before relaxing)
+ .debug_str     0x00000000000c0a8a     0xae24 CMakeFiles/Gimbal_V1.1.dir/Core/Src/stm32f4xx_it.c.obj
+                                      0xc7c3d (size before relaxing)
+ .debug_str     0x00000000000cb8ae       0x3f CMakeFiles/Gimbal_V1.1.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                                      0xbc3b8 (size before relaxing)
+ .debug_str     0x00000000000cb8ed      0x5f9 CMakeFiles/Gimbal_V1.1.dir/Core/Src/sysmem.c.obj
+                                       0x5558 (size before relaxing)
+ .debug_str     0x00000000000cbee6     0x1c09 CMakeFiles/Gimbal_V1.1.dir/Core/Src/syscalls.c.obj
+                                       0x8333 (size before relaxing)
+ .debug_str     0x00000000000cdaef       0x44 CMakeFiles/Gimbal_V1.1.dir/startup_stm32f405xx.s.obj
+                                         0x72 (size before relaxing)
+ .debug_str     0x00000000000cdb33     0x1041 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/communication.c.obj
+                                      0xc8034 (size before relaxing)
+ .debug_str     0x00000000000ceb74     0x1498 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/RM_Lib.cpp.obj
+                                      0xc9aa1 (size before relaxing)
+ .debug_str     0x00000000000d000c      0x3c5 CMakeFiles/Gimbal_V1.1.dir/CH010/hipnuc_dec.c.obj
+                                      0xc08c8 (size before relaxing)
+ .debug_str     0x00000000000d03d1      0x30e CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
+                                      0xc6e9f (size before relaxing)
+ .debug_str     0x00000000000d06df       0xf9 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
+                                      0xc6c74 (size before relaxing)
+ .debug_str     0x00000000000d07d8      0x1bd CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
+                                      0xc6d1f (size before relaxing)
+ .debug_str     0x00000000000d0995      0x46a CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
+                                      0xc68d6 (size before relaxing)
+ .debug_str     0x00000000000d0dff     0x2738 CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+                                      0xc7f30 (size before relaxing)
+ .debug_str     0x00000000000d3537      0x46d CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+                                      0xcb994 (size before relaxing)
+ .debug_str     0x00000000000d39a4      0xa9e CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+                                      0xc8a12 (size before relaxing)
+ .debug_str     0x00000000000d4442      0x440 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+                                      0xcbadd (size before relaxing)
+ .debug_str     0x00000000000d4882      0xdc9 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+                                      0xcd608 (size before relaxing)
+ .debug_str     0x00000000000d564b       0x47 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+                                      0xc6dbe (size before relaxing)
+ .debug_str     0x00000000000d5692      0x1cb /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
                                         0x786 (size before relaxing)
- .debug_str     0x00000000000d5756      0x17e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
+ .debug_str     0x00000000000d585d      0x17e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
                                         0x6bc (size before relaxing)
- .debug_str     0x00000000000d58d4      0x157 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_asin.o)
+ .debug_str     0x00000000000d59db      0x157 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_asin.o)
                                         0x20a (size before relaxing)
- .debug_str     0x00000000000d5a2b       0x45 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_atan2.o)
+ .debug_str     0x00000000000d5b32       0x45 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_atan2.o)
                                         0x1bc (size before relaxing)
- .debug_str     0x00000000000d5a70       0x8f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_asin.o)
+ .debug_str     0x00000000000d5b77       0x8f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_asin.o)
                                         0x226 (size before relaxing)
- .debug_str     0x00000000000d5aff       0x4d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
+ .debug_str     0x00000000000d5c06       0x4d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
                                         0x21f (size before relaxing)
- .debug_str     0x00000000000d5b4c       0x9f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_sqrt.o)
+ .debug_str     0x00000000000d5c53       0x9f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_sqrt.o)
                                         0x1cb (size before relaxing)
- .debug_str     0x00000000000d5beb      0x114 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-s_lib_ver.o)
+ .debug_str     0x00000000000d5cf2      0x114 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-s_lib_ver.o)
                                         0x1f4 (size before relaxing)
- .debug_str     0x00000000000d5cff       0x41 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
+ .debug_str     0x00000000000d5e06       0x41 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
                                         0x1fd (size before relaxing)
- .debug_str     0x00000000000d5d40       0x33 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+ .debug_str     0x00000000000d5e47       0x33 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
                                         0x1df (size before relaxing)
- .debug_str     0x00000000000d5d73       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_nan.o)
+ .debug_str     0x00000000000d5e7a       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_nan.o)
                                         0x1bf (size before relaxing)
- .debug_str     0x00000000000d5da7       0xab /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
- .debug_str     0x00000000000d5e52       0xab /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
- .debug_str     0x00000000000d5e52       0xab /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_cmpdf2.o)
- .debug_str     0x00000000000d5e52       0xab /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
- .debug_str     0x00000000000d5e52       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_str     0x00000000000d5eae       0xab /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_str     0x00000000000d5f59       0xab /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .debug_str     0x00000000000d5f59       0xab /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_cmpdf2.o)
+ .debug_str     0x00000000000d5f59       0xab /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+ .debug_str     0x00000000000d5f59       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
                                          0xa6 (size before relaxing)
- .debug_str     0x00000000000d5e7e      0x544 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_str     0x00000000000d5f85      0x544 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
                                         0x647 (size before relaxing)
- .debug_str     0x00000000000d63c2       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_str     0x00000000000d64c9       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
                                          0xaa (size before relaxing)
- .debug_str     0x00000000000d63f2       0x9b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
+ .debug_str     0x00000000000d64f9       0x9b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
                                         0x1af (size before relaxing)
- .debug_str     0x00000000000d648d       0xac /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .debug_str     0x00000000000d6594       0xac /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
                                         0x507 (size before relaxing)
- .debug_str     0x00000000000d6539       0xdf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .debug_str     0x00000000000d6640       0xdf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
                                         0x55e (size before relaxing)
- .debug_str     0x00000000000d6618       0xf0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .debug_str     0x00000000000d671f       0xf0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
                                         0x20b (size before relaxing)
- .debug_str     0x00000000000d6708       0x52 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .debug_str     0x00000000000d680f       0x52 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
                                         0x533 (size before relaxing)
- .debug_str     0x00000000000d675a       0xaa /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+ .debug_str     0x00000000000d6861       0xaa /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
                                          0xb6 (size before relaxing)
- .debug_str     0x00000000000d6804       0xa3 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .debug_str     0x00000000000d690b       0xa3 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
                                         0x1c0 (size before relaxing)
- .debug_str     0x00000000000d68a7       0xb4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_str     0x00000000000d69ae       0xb4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
                                         0x595 (size before relaxing)
- .debug_str     0x00000000000d695b       0x46 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_str     0x00000000000d6a62       0x46 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
                                         0x5c0 (size before relaxing)
- .debug_str     0x00000000000d69a1       0x32 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .debug_str     0x00000000000d6aa8       0x32 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
                                         0x516 (size before relaxing)
- .debug_str     0x00000000000d69d3       0xfc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .debug_str     0x00000000000d6ada       0xfc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
                                         0x58e (size before relaxing)
- .debug_str     0x00000000000d6acf       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+ .debug_str     0x00000000000d6bd6       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
                                         0x51b (size before relaxing)
- .debug_str     0x00000000000d6b03       0xb5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sprintf.o)
+ .debug_str     0x00000000000d6c0a       0xb5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sprintf.o)
                                         0x54c (size before relaxing)
- .debug_str     0x00000000000d6bb8       0x4c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .debug_str     0x00000000000d6cbf       0x4c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
                                         0x52c (size before relaxing)
- .debug_str     0x00000000000d6c04      0x252 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
+ .debug_str     0x00000000000d6d0b      0x252 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
                                         0x855 (size before relaxing)
- .debug_str     0x00000000000d6e56       0x87 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_str     0x00000000000d6f5d       0x87 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
                                         0x7ec (size before relaxing)
- .debug_str     0x00000000000d6edd       0x5e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .debug_str     0x00000000000d6fe4       0x5e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
                                         0x53e (size before relaxing)
- .debug_str     0x00000000000d6f3b       0x3c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .debug_str     0x00000000000d7042       0x3c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
                                          0xaf (size before relaxing)
- .debug_str     0x00000000000d6f77       0x66 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .debug_str     0x00000000000d707e       0x66 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
                                         0x1df (size before relaxing)
- .debug_str     0x00000000000d6fdd       0x23 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_str     0x00000000000d70e4       0x23 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
                                         0x57f (size before relaxing)
- .debug_str     0x00000000000d7000      0x1ce /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_str     0x00000000000d7107      0x1ce /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
                                         0x737 (size before relaxing)
- .debug_str     0x00000000000d71ce        0xf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_str     0x00000000000d72d5        0xf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
                                         0x55d (size before relaxing)
 
-.debug_frame    0x0000000000000000     0x7fc4
+.debug_frame    0x0000000000000000     0x7fe8
  .debug_frame   0x0000000000000000       0x58 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
  .debug_frame   0x0000000000000058      0x5a0 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .debug_frame   0x00000000000005f8      0x1f4 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
@@ -10947,51 +10958,51 @@ LOAD linker stubs
  .debug_frame   0x000000000000487c      0x254 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/communication.c.obj
  .debug_frame   0x0000000000004ad0      0xeb0 CMakeFiles/Gimbal_V1.1.dir/RM2023_Lib_V1.2/RM_Lib.cpp.obj
  .debug_frame   0x0000000000005980      0x258 CMakeFiles/Gimbal_V1.1.dir/CH010/hipnuc_dec.c.obj
- .debug_frame   0x0000000000005bd8      0x1e8 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
- .debug_frame   0x0000000000005dc0       0xe8 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
- .debug_frame   0x0000000000005ea8      0x1c8 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
- .debug_frame   0x0000000000006070      0x20c CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
- .debug_frame   0x000000000000627c      0x25c CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
- .debug_frame   0x00000000000064d8      0x2bc CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
- .debug_frame   0x0000000000006794      0x484 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
- .debug_frame   0x0000000000006c18      0x3a4 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
- .debug_frame   0x0000000000006fbc      0x420 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
- .debug_frame   0x00000000000073dc      0x100 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
- .debug_frame   0x00000000000074dc       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
- .debug_frame   0x0000000000007504       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
- .debug_frame   0x0000000000007534       0x48 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_asin.o)
- .debug_frame   0x000000000000757c       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_atan2.o)
- .debug_frame   0x000000000000759c       0x70 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_asin.o)
- .debug_frame   0x000000000000760c       0x44 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
- .debug_frame   0x0000000000007650       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_sqrt.o)
- .debug_frame   0x0000000000007670       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
- .debug_frame   0x000000000000769c       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
- .debug_frame   0x00000000000076bc       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_nan.o)
- .debug_frame   0x00000000000076dc       0xac /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
- .debug_frame   0x0000000000007788       0x50 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
- .debug_frame   0x00000000000077d8       0xc4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_cmpdf2.o)
- .debug_frame   0x000000000000789c       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
- .debug_frame   0x00000000000078c0       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
- .debug_frame   0x00000000000078ec       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
- .debug_frame   0x0000000000007920       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
- .debug_frame   0x0000000000007948       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
- .debug_frame   0x0000000000007968       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
- .debug_frame   0x0000000000007994       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
- .debug_frame   0x00000000000079c4       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
- .debug_frame   0x00000000000079f0       0x54 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
- .debug_frame   0x0000000000007a44       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
- .debug_frame   0x0000000000007a74       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
- .debug_frame   0x0000000000007aa0      0x114 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
- .debug_frame   0x0000000000007bb4       0x3c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
- .debug_frame   0x0000000000007bf0       0x74 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sprintf.o)
- .debug_frame   0x0000000000007c64       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
- .debug_frame   0x0000000000007c94       0x98 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
- .debug_frame   0x0000000000007d2c       0x6c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_frame   0x0000000000007d98       0x70 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
- .debug_frame   0x0000000000007e08       0x40 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
- .debug_frame   0x0000000000007e48       0x38 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
- .debug_frame   0x0000000000007e80      0x124 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
- .debug_frame   0x0000000000007fa4       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000005bd8      0x20c CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/DM.cpp.obj
+ .debug_frame   0x0000000000005de4       0xe8 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RM.cpp.obj
+ .debug_frame   0x0000000000005ecc      0x1c8 CMakeFiles/Gimbal_V1.1.dir/Motor_Lib/RMD.cpp.obj
+ .debug_frame   0x0000000000006094      0x20c CMakeFiles/Gimbal_V1.1.dir/Math_Lib/PID.cpp.obj
+ .debug_frame   0x00000000000062a0      0x25c CMakeFiles/Gimbal_V1.1.dir/Math_Lib/SMC.cpp.obj
+ .debug_frame   0x00000000000064fc      0x2bc CMakeFiles/Gimbal_V1.1.dir/Control/Pitch.cpp.obj
+ .debug_frame   0x00000000000067b8      0x484 CMakeFiles/Gimbal_V1.1.dir/Control/Shoot.cpp.obj
+ .debug_frame   0x0000000000006c3c      0x3a4 CMakeFiles/Gimbal_V1.1.dir/Control/Yaw.cpp.obj
+ .debug_frame   0x0000000000006fe0      0x420 CMakeFiles/Gimbal_V1.1.dir/App_Lib/app_gimbal.cpp.obj
+ .debug_frame   0x0000000000007400      0x100 CMakeFiles/Gimbal_V1.1.dir/App_Lib/main.cpp.obj
+ .debug_frame   0x0000000000007500       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)
+ .debug_frame   0x0000000000007528       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_handler.o)
+ .debug_frame   0x0000000000007558       0x48 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_asin.o)
+ .debug_frame   0x00000000000075a0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-wf_atan2.o)
+ .debug_frame   0x00000000000075c0       0x70 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_asin.o)
+ .debug_frame   0x0000000000007630       0x44 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_atan2.o)
+ .debug_frame   0x0000000000007674       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-ef_sqrt.o)
+ .debug_frame   0x0000000000007694       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_atan.o)
+ .debug_frame   0x00000000000076c0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_fabs.o)
+ .debug_frame   0x00000000000076e0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a(lib_a-sf_nan.o)
+ .debug_frame   0x0000000000007700       0xac /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000000077ac       0x50 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000000000077fc       0xc4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000000000078c0       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x00000000000078e4       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000007910       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000007944       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-abort.o)
+ .debug_frame   0x000000000000796c       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x000000000000798c       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000000079b8       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00000000000079e8       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000007a14       0x54 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000007a68       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000007a98       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000007ac4      0x114 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signal.o)
+ .debug_frame   0x0000000000007bd8       0x3c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-signalr.o)
+ .debug_frame   0x0000000000007c14       0x74 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sprintf.o)
+ .debug_frame   0x0000000000007c88       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000007cb8       0x98 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x0000000000007d50       0x6c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000000000007dbc       0x70 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000007e2c       0x40 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000007e6c       0x38 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000007ea4      0x124 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000007fc8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
 
 .debug_loc      0x0000000000000000     0x4acf
  .debug_loc     0x0000000000000000       0x76 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a(new_op.o)

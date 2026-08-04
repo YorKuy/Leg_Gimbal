@@ -16,7 +16,7 @@
 UpDown_check_class UD_Yaw_Back(0),UD_Yaw_StandUp(0);
 SMC Yaw(20,30, 0, 0.01, 30000, 0.9, 1, 1),
     Yaw_Encoder(100, 105, 0, 0.01, 30000, 0.9, 1, 1),
-    Yaw_Zm(35, 55, 0, 0.01, 30000, 0.9, 1, 1),
+    Yaw_Zm(25, 33, 0, 0.01, 30000, 0.9, 1, 1),
     Yaw_Back(15, 50, 0, 0.001, 25000, 0.9, 1, 1),
     Yaw_Stand(15, 50, 0, 0.001, 25000, 0.9, 1, 1);
 static YAW yaw_instance;
@@ -159,7 +159,7 @@ float YAW::stateNORMAL(u8 jianshu_flag)
         return stateBACKING(jianshu_flag);
     }
 
-    if(UD_Yaw_StandUp.updata(YK.Pressed_Check(KEY_PRESSED_X)) == UpDown_check_rising || (YK.yaogan.v > 500 && YAW_Mode == GYRO_MODE ))
+    if(UD_Yaw_StandUp.updata(YK.Pressed_Check(KEY_PRESSED_X)) == UpDown_check_rising)
     {
         diff_stand_L = max_short_mang(ZERO_HEAD, DM_YAW.mang);
         diff_stand_R = max_short_mang(ZERO_BACK, DM_YAW.mang);

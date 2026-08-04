@@ -90,7 +90,7 @@ u8 buff_mode;
 static uint8_t start_yaw = 0, start_pitch = 0, time_yaw = 0;
 
 UpDown_check_class UD_E(0), UD_SpeedUp(0), UD_SpeedDown(0), UD_Buff(0), UD_YK_BoPan(0), UD_BoPan_lian(0), UD_GenSui(0), UD_l(0), UD_ch0_exceed_600(0), UD_Laser(0);
-UpDown_check_class UD_GenSui_chance(0);
+UpDown_check_class UD_GenSui_chance(0),buff_change_buf(0);
 YKStateTransitionDetector YK_MODE_SW_C_N(0), YK_MODE_SW_C_S(0), YK_MODE_SW_N_C(0), YK_MODE_SW_S_C(0);
 
 static void MODE_DEAL(void)
@@ -255,10 +255,10 @@ static void jianshu_deal(void)
   {
     mcl->MCL_Change -= 50;
   }
-  if (UD_Buff.updata(YK.Pressed_Check(KEY_PRESSED_V)) == UpDown_check_rising || (YK_Mode == SHOOT_MODE && YK.yaogan.v > 600))
-  {
-    buff_mode = (buff_mode + 1) % 3;
-  }
+  // if (UD_Buff.updata(YK.Pressed_Check(KEY_PRESSED_V)) == UpDown_check_rising || (YK_Mode == SHOOT_MODE && buff_change_buf.updata(YK.yaogan.v > 600)) == UpDown_check_rising)
+  // {
+  //   buff_mode = (buff_mode + 1) % 3;
+  // }
 }
 
 static uint8_t start_deal(void)
@@ -387,6 +387,15 @@ void App_Gimbal_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
         else
           DM_PITCH.DM_MIT(0x01, 0, 0, 0, 1, Pitch_Pid_Out);//Pitch_Pid_Out
       }
+      else
+      {
+        static uint8_t pitch_error = 0;
+        if(++pitch_error % 2 == 0)
+        {
+          DM_PITCH.DM_Start(0x01);
+        }
+        else DM_PITCH.DM_Clear_Err(0x01);
+      }
     }
     else
     {
@@ -396,6 +405,15 @@ void App_Gimbal_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
           DM_YAW.DM_MIT(0x02, 0, 0, 0, 0, 0);
         else
           DM_YAW.DM_MIT(0x02, 0, 0, 0, 0.1, Yaw_Pid_Out);
+      }
+      else
+      {
+        static uint8_t yaw_error = 0;
+        if(++yaw_error % 2 == 0)
+        {
+          DM_YAW.DM_Start(0x02);
+        }
+        else DM_YAW.DM_Clear_Err(0x02);
       }
     }
     dm_send_flag++;

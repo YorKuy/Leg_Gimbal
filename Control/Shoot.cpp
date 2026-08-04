@@ -297,7 +297,7 @@ f BP::BP_Out_Interface(u8 YK_Mode, u8 jianshu_flag)
             bp->Continuous_shooting_flag = 0;
             bp->delay_2ms = 0;
         }
-        else if ((((YK.shubiao.press_l) && bp->delay_2ms > 150) || (request.zimiao_status && YK.shubiao.press_l && SuperPower.mode == 2 && mcl->Mode)) && buff_mode == 0)
+        else if ((((YK.shubiao.press_l) && bp->delay_2ms > 150) || (request.zimiao_status  && SuperPower.mode == 2 && mcl->Mode)) && buff_mode == 0)
         {
             bp->Continuous_shooting_flag = 1;
 #if BP_TEST_FLAG

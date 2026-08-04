@@ -1,7 +1,7 @@
-/home/yorkuy/Code/Leg_Gimbal/RM2023_Lib_V1.2/RM_Lib.h:677:7:<unnamed struct>::<constructor>()	16	static
-/home/yorkuy/Code/Leg_Gimbal/App_Lib/main.cpp:15:5:int main()	8	static
-/home/yorkuy/Code/Leg_Gimbal/App_Lib/main.cpp:47:17:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	16	static
-/home/yorkuy/Code/Leg_Gimbal/App_Lib/main.cpp:52:17:void HAL_CAN_RxFifo1MsgPendingCallback(CAN_HandleTypeDef*)	16	static
-/home/yorkuy/Code/Leg_Gimbal/App_Lib/main.cpp:57:17:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
-/home/yorkuy/Code/Leg_Gimbal/App_Lib/main.cpp:60:1:void __static_initialization_and_destruction_0(int, int)	16	static
-/home/yorkuy/Code/Leg_Gimbal/App_Lib/main.cpp:60:1:cpp)	8	static
+/home/cyn/control_code/Leg_Gimbal/RM2023_Lib_V1.2/RM_Lib.h:677:7:<unnamed struct>::<constructor>()	16	static
+/home/cyn/control_code/Leg_Gimbal/App_Lib/main.cpp:15:5:int main()	8	static
+/home/cyn/control_code/Leg_Gimbal/App_Lib/main.cpp:47:17:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	16	static
+/home/cyn/control_code/Leg_Gimbal/App_Lib/main.cpp:52:17:void HAL_CAN_RxFifo1MsgPendingCallback(CAN_HandleTypeDef*)	16	static
+/home/cyn/control_code/Leg_Gimbal/App_Lib/main.cpp:57:17:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
+/home/cyn/control_code/Leg_Gimbal/App_Lib/main.cpp:60:1:void __static_initialization_and_destruction_0(int, int)	16	static
+/home/cyn/control_code/Leg_Gimbal/App_Lib/main.cpp:60:1:cpp)	8	static

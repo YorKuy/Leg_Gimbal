@@ -1,7 +1,7 @@
 #include "DM.h"
 
 #define PI 3.1415926
-HAL_StatusTypeDef MOTOR_DM::DM_Start(uint16_t Id) // ½øÈëµç»ú  ·¢ËÍÖ¸Áî
+HAL_StatusTypeDef MOTOR_DM::DM_Start(uint16_t Id) // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½  ï¿½ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½
 {
     uint8_t pData[8];
     pData[0] = 0xFF;
@@ -15,12 +15,12 @@ HAL_StatusTypeDef MOTOR_DM::DM_Start(uint16_t Id) // ½øÈëµç»ú  ·¢ËÍÖ¸Áî
     motor_send_state = this->can_rev->Send(Id, pData);
     if (motor_send_state != HAL_OK)
     {
-        motor_send_error_cnt++;//DM·¢Éú´íÎó
+        motor_send_error_cnt++;//DMï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     }
     return motor_send_state;
 }
 
-HAL_StatusTypeDef MOTOR_DM::DM_End(uint16_t Id) // ÍË³öµç»ú   ·¢ËÍÖ¸Áî
+HAL_StatusTypeDef MOTOR_DM::DM_End(uint16_t Id) // ï¿½Ë³ï¿½ï¿½ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½
 {
     uint8_t pData[8];
     pData[0] = 0xFF;
@@ -38,7 +38,7 @@ HAL_StatusTypeDef MOTOR_DM::DM_End(uint16_t Id) // ÍË³öµç»ú   ·¢ËÍÖ¸Áî
     }
     return motor_send_state;
 }
-HAL_StatusTypeDef MOTOR_DM::DM_Savezero(uint16_t Id) // ±£´æÎ»ÖÃÁãµã   ·¢ËÍÖ¸Áî
+HAL_StatusTypeDef MOTOR_DM::DM_Savezero(uint16_t Id) // ï¿½ï¿½ï¿½ï¿½Î»ï¿½ï¿½ï¿½ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½
 {
     uint8_t pData[8];
     pData[0] = 0xFF;
@@ -68,7 +68,7 @@ int float_to_uint(float x, float x_min, float x_max, int bits)
     return (int)((x - offset) * ((float)((1 << bits) - 1)) / span);
 }
 
-//ÎÞ·ûºÅÕûÊý ¡ú ¸¡µãÏßÐÔÓ³Éä
+//ï¿½Þ·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó³ï¿½ï¿½
 float uint_to_float(int x_int, float x_min, float x_max, int bits)
 {
     /// converts unsigned int to float, given range and number of bits ///
@@ -78,22 +78,22 @@ float uint_to_float(int x_int, float x_min, float x_max, int bits)
 }
 
 /**
- * @brief  MITÄ£Ê½¿ØÏÂ¿ØÖÆÖ¡,kp=0,kd²»Îª0£¨kd¸ø0»áÕðµ´£©
- * @param  hcan   CANµÄ¾ä±ú
- * @param  ID     Êý¾ÝÖ¡µÄID
- * @param  _pos   Î»ÖÃ¸ø¶¨
- * @param  _vel   ËÙ¶È¸ø¶¨
- * @param  _KP    Î»ÖÃ±ÈÀýÏµÊý
- * @param  _KD    Î»ÖÃÎ¢·ÖÏµÊý
- * @param  _torq  ×ª¾Ø¸ø¶¨Öµ
+ * @brief  MITÄ£Ê½ï¿½ï¿½ï¿½Â¿ï¿½ï¿½ï¿½Ö¡,kp=0,kdï¿½ï¿½Îª0ï¿½ï¿½kdï¿½ï¿½0ï¿½ï¿½ï¿½ðµ´£ï¿½
+ * @param  hcan   CANï¿½Ä¾ï¿½ï¿½
+ * @param  ID     ï¿½ï¿½ï¿½ï¿½Ö¡ï¿½ï¿½ID
+ * @param  _pos   Î»ï¿½Ã¸ï¿½ï¿½ï¿½
+ * @param  _vel   ï¿½Ù¶È¸ï¿½ï¿½ï¿½
+ * @param  _KP    Î»ï¿½Ã±ï¿½ï¿½ï¿½Ïµï¿½ï¿½
+ * @param  _KD    Î»ï¿½ï¿½Î¢ï¿½ï¿½Ïµï¿½ï¿½
+ * @param  _torq  ×ªï¿½Ø¸ï¿½ï¿½ï¿½Öµ
  */
 HAL_StatusTypeDef MOTOR_DM::DM_MIT(uint16_t Id, float _pos, float _vel, float _KP, float _KD, float _torq) // MIT Ä£Ê½
 {
     uint16_t pos_tmp, vel_tmp, kp_tmp, kd_tmp, tor_tmp;
-    pos_tmp = float_to_uint(_pos, P_MIN, P_MAX, 16);//Î»ÖÃ
-    vel_tmp = float_to_uint(_vel, V_MIN, V_MAX, 12);//ËÙ¶È
-    kp_tmp = float_to_uint(_KP, KP_MIN, KP_MAX, 12);//Î»ÖÃ±ÈÀýÏµÊý
-    kd_tmp = float_to_uint(_KD, KD_MIN, KD_MAX, 12);//Î»ÖÃÎ¢·ÖÏµÊý
+    pos_tmp = float_to_uint(_pos, P_MIN, P_MAX, 16);//Î»ï¿½ï¿½
+    vel_tmp = float_to_uint(_vel, V_MIN, V_MAX, 12);//ï¿½Ù¶ï¿½
+    kp_tmp = float_to_uint(_KP, KP_MIN, KP_MAX, 12);//Î»ï¿½Ã±ï¿½ï¿½ï¿½Ïµï¿½ï¿½
+    kd_tmp = float_to_uint(_KD, KD_MIN, KD_MAX, 12);//Î»ï¿½ï¿½Î¢ï¿½ï¿½Ïµï¿½ï¿½
     tor_tmp = float_to_uint(_torq, T_MIN, T_MAX, 12);
 
     uint8_t pData[8];
@@ -113,13 +113,13 @@ HAL_StatusTypeDef MOTOR_DM::DM_MIT(uint16_t Id, float _pos, float _vel, float _K
     return motor_send_state;
 }
 /**
- * @briefÖ¡ ID ÎªÉè¶¨µÄ CAN ID Öµ¼ÓÉÏ 0x100 µÄÆ«ÒÆ
- * @param _pos£ºÎ»ÖÃ¸ø¶¨£¬¸¡µãÐÍ£¬µÍÎ»ÔÚÇ°£¬¸ßÎ»ÔÚºó
- * @param _vel£ºËÙ¶È¸ø¶¨£¬¸¡µãÐÍ£¬µÍÎ»ÔÚÇ°£¬¸ßÎ»ÔÚºó
+ * @briefÖ¡ ID Îªï¿½è¶¨ï¿½ï¿½ CAN ID Öµï¿½ï¿½ï¿½ï¿½ 0x100 ï¿½ï¿½Æ«ï¿½ï¿½
+ * @param _posï¿½ï¿½Î»ï¿½Ã¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í£ï¿½ï¿½ï¿½Î»ï¿½ï¿½Ç°ï¿½ï¿½ï¿½ï¿½Î»ï¿½Úºï¿½
+ * @param _velï¿½ï¿½ï¿½Ù¶È¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í£ï¿½ï¿½ï¿½Î»ï¿½ï¿½Ç°ï¿½ï¿½ï¿½ï¿½Î»ï¿½Úºï¿½
  * @param
- * @param ´Ë´¦·¢ËÍÃüÁîµÄ CAN ID ÊÇ 0x100+ID¡£ËÙ¶È¸ø¶¨ÊÇÌÝÐÎ¼ÓËÙ¶ÈÔËÐÐÏÂ×î¸ßËÙ¶ÈµÄ£¬¼´ÎªÔÈËÙ¶ÎµÄËÙ¶ÈÖµ¡£
+ * @param ï¿½Ë´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ CAN ID ï¿½ï¿½ 0x100+IDï¿½ï¿½ï¿½Ù¶È¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î¼ï¿½ï¿½Ù¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ù¶ÈµÄ£ï¿½ï¿½ï¿½Îªï¿½ï¿½ï¿½Ù¶Îµï¿½ï¿½Ù¶ï¿½Öµï¿½ï¿½
  */
-HAL_StatusTypeDef MOTOR_DM::DM_POS(uint16_t Id, float _pos, float _vel) // Î»ÖÃËÙ¶ÈÄ£Ê½
+HAL_StatusTypeDef MOTOR_DM::DM_POS(uint16_t Id, float _pos, float _vel) // Î»ï¿½ï¿½ï¿½Ù¶ï¿½Ä£Ê½
 {
     uint8_t *pbuf, *vbuf;
     pbuf = (uint8_t *)&_pos;
@@ -143,13 +143,13 @@ HAL_StatusTypeDef MOTOR_DM::DM_POS(uint16_t Id, float _pos, float _vel) // Î»ÖÃË
 }
 
 /**
- * @brief  ËÙ¶ÈÄ£Ê½¿ØÏÂ¿ØÖÆÖ¡
- * @param  hcan   CANµÄ¾ä±ú
- * @param  ID     Êý¾ÝÖ¡µÄID
- * @param  _vel   ËÙ¶È¸ø¶¨
+ * @brief  ï¿½Ù¶ï¿½Ä£Ê½ï¿½ï¿½ï¿½Â¿ï¿½ï¿½ï¿½Ö¡
+ * @param  hcan   CANï¿½Ä¾ï¿½ï¿½
+ * @param  ID     ï¿½ï¿½ï¿½ï¿½Ö¡ï¿½ï¿½ID
+ * @param  _vel   ï¿½Ù¶È¸ï¿½ï¿½ï¿½
  */
 
-HAL_StatusTypeDef MOTOR_DM::DM_VEL(uint16_t Id, float _vel) // ËÙ¶ÈÄ£Ê½
+HAL_StatusTypeDef MOTOR_DM::DM_VEL(uint16_t Id, float _vel) // ï¿½Ù¶ï¿½Ä£Ê½
 {
     uint8_t *vbuf;
     vbuf = (uint8_t *)&_vel;
@@ -188,7 +188,7 @@ void MOTOR_DM::update_4PI_mang_inf_basic_zeromang(void)
     this->mang_inf = this->nsqd_8PI_Cnt_mang + this->mang;
     this->Last_mang = this->mang;
 }
-HAL_StatusTypeDef MOTOR_DM::DM_update(void) // µÃµ½Êý¾Ý
+HAL_StatusTypeDef MOTOR_DM::DM_update(void) // ï¿½Ãµï¿½ï¿½ï¿½ï¿½ï¿½
 {
     if (this->can_rev->RxHeader.StdId != ID)
     {
@@ -205,4 +205,22 @@ HAL_StatusTypeDef MOTOR_DM::DM_update(void) // µÃµ½Êý¾Ý
     T_Rotor = (float)(this->can_rev->rx_buf[6]);
     T_MOS = (float)(this->can_rev->rx_buf[7]);
     return HAL_OK;
+}
+HAL_StatusTypeDef MOTOR_DM::DM_Clear_Err(uint16_t Id) // æ¸…é™¤é”™è¯¯   å‘é€æŒ‡ä»¤
+{
+    uint8_t pData[8];
+    pData[0] = 0xFF;
+    pData[1] = 0xFF;
+    pData[2] = 0xFF;
+    pData[3] = 0xFF;
+    pData[4] = 0xFF;
+    pData[5] = 0xFF;
+    pData[6] = 0xFF;
+    pData[7] = 0xFB;
+    motor_send_state = this->can_rev->Send(Id, pData);
+    if (motor_send_state != HAL_OK)
+    {
+        motor_send_error_cnt++;
+    }
+    return motor_send_state;
 }

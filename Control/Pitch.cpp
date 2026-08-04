@@ -3,20 +3,20 @@
 #include "PID.h"
 #include "SMC.h"
 
-#define PITCH_HIGH   -1.13636F //-1.13636f  
-#define PITCH_LOW    -0.148942F //-0.148942f
+#define PITCH_HIGH   -1.0146F //-1.13636f  
+#define PITCH_LOW    -0.00332F //-0.144892f
 #define PI 3.1415926F
 #define PITCH_LIMIT_MARGIN 0.01F
 #define PITCH_GYRO_TARGET_MIN -30.5F
 #define PITCH_GYRO_TARGET_MAX 20.5F
-#define PITCH_OUTPUT_MIN -7.0F
-#define PITCH_OUTPUT_MAX 7.0F
+#define PITCH_OUTPUT_MIN -9.0F
+#define PITCH_OUTPUT_MAX 9.0F
 #define RAD PI / 180.0f
 SMC         Pitch(45,70,0,0.001,15000,0.9,1,1),
             Pitch_Zm(60, 130, 0, 0.1, 16000, 1, 1, 1);
 SMC_PITCH SMC_Pitch(30,40, 2.0f, 0.01f, 20000, 0.8f, 1),
             SMC_Pitch_Encoder(120,135, 10.0f, 0.01f, 20000, 0.8f, 1),
-            SMC_Pitch_Zm(52,65, 21.0f, 0.01f, 20000, 0.8f, 1.0f);
+            SMC_Pitch_Zm(42,55, 25.0f, 0.01f, 30000, 0.8f, 1.0f);
 static PITCH pitch_instance;
 PITCH *pitch = &pitch_instance;
 extern MOTOR_DM DM_PITCH;

@@ -179,7 +179,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/yorkuy/Code/Leg_Gimbal/build/Debug"
+			"value" : "/home/cyn/control_code/Leg_Gimbal/build/Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -667,7 +667,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/yorkuy/Code/Leg_Gimbal"
+			"value" : "/home/cyn/control_code/Leg_Gimbal"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1131,7 +1131,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/home/yorkuy/Code/Leg_Gimbal/cmake/gcc-arm-none-eabi.cmake"
+			"value" : "/home/cyn/control_code/Leg_Gimbal/cmake/gcc-arm-none-eabi.cmake"
 		},
 		{
 			"name" : "CMAKE_UNAME",
@@ -1171,7 +1171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/yorkuy/Code/Leg_Gimbal/build/Debug"
+			"value" : "/home/cyn/control_code/Leg_Gimbal/build/Debug"
 		},
 		{
 			"name" : "Gimbal_V1.1_IS_TOP_LEVEL",
@@ -1195,7 +1195,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/yorkuy/Code/Leg_Gimbal"
+			"value" : "/home/cyn/control_code/Leg_Gimbal"
 		}
 	],
 	"kind" : "cache",

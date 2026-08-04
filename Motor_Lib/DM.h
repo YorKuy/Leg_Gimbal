@@ -3,40 +3,41 @@
 
 #include "RM_Lib.h"
 
-////////***********************************  DA MIAO µç »ú ********************************//////////
+////////***********************************  DA MIAO ï¿½ï¿½ ï¿½ï¿½ ********************************//////////
 class MOTOR_DM
-{ // ´ïÃîµç»ú ,ÔÚÕâÀï¶¨ÒåµÄ¶«Î÷ÐèÒªÊ¹ÓÃthisÀ´ÌáÈ¡
+{ // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ,ï¿½ï¿½ï¿½ï¿½ï¿½ï¶¨ï¿½ï¿½Ä¶ï¿½ï¿½ï¿½ï¿½ï¿½ÒªÊ¹ï¿½ï¿½thisï¿½ï¿½ï¿½ï¿½È¡
 public:
-    const uint16_t ID; // µç»ú·´À¡ID
+    const uint16_t ID; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ID
     USER_CAN *can_rev;
 
-    int16_t id;  // ÓÉ´ïÃëµÄ´®¿ÚÖúÊÖÉèÖÃ
-    int16_t ERR; // ·´À¡»ØÀ´µÄµç»ú´íÎóÐÅÏ¢£¬8£º³¬Ñ¹ 9£ºÇ·Ñ¹ A£º¹ýµçÁ÷ B£ºmos¹ýÎÂ C£ºÏßÈ¦¹ýÎÂ D£ºÍ¨Ñ¶¶ªÊ§ E£º¹ýÔØ
+    int16_t id;  // ï¿½É´ï¿½ï¿½ï¿½Ä´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+    int16_t ERR; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢ï¿½ï¿½8ï¿½ï¿½ï¿½ï¿½Ñ¹ 9ï¿½ï¿½Ç·Ñ¹ Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Bï¿½ï¿½mosï¿½ï¿½ï¿½ï¿½ Cï¿½ï¿½ï¿½ï¿½È¦ï¿½ï¿½ï¿½ï¿½ Dï¿½ï¿½Í¨Ñ¶ï¿½ï¿½Ê§ Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     int p_int;
     int v_int;
     int t_int;
-    float mang;    // Î»ÖÃ 16Î»
-    float sp;      //   ËÙ¶È  12Î»
-    float Torque;  // Å¤¾Ø 12Î»
-    float T_Rotor; // ±íÊ¾µç»úÄÚ²¿ÏßÈ¦µÄÆ½¾ùÎÂ¶È µ¥Î»£ºÉãÊÏ¶È
-    float T_MOS;   // ±íÊ¾Çý¶¯ÉÏ MOS µÄÆ½¾ùÎÂ¶È
+    float mang;    // Î»ï¿½ï¿½ 16Î»
+    float sp;      //   ï¿½Ù¶ï¿½  12Î»
+    float Torque;  // Å¤ï¿½ï¿½ 12Î»
+    float T_Rotor; // ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½Ú²ï¿½ï¿½ï¿½È¦ï¿½ï¿½Æ½ï¿½ï¿½ï¿½Â¶ï¿½ ï¿½ï¿½Î»ï¿½ï¿½ï¿½ï¿½ï¿½Ï¶ï¿½
+    float T_MOS;   // ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ MOS ï¿½ï¿½Æ½ï¿½ï¿½ï¿½Â¶ï¿½
 
-    float nsqd_8PI_Cnt_mang; // È¦ËÙ*±àÂëÖµ
-    float mang_inf;          // ¹ýÈ¦±àÂëÖµ
-    uint8_t first = 0;       // ³õÊ¼±êÖ¾
-    float Last_mang;         // ÉÏ´ÎµÄ½Ç¶ÈÖµ£¬ÅÐ¶Ï¹ýÈ¦ÓÃ
-    int16_t motor_number;    // È¦ËÙ
+    float nsqd_8PI_Cnt_mang; // È¦ï¿½ï¿½*ï¿½ï¿½ï¿½ï¿½Öµ
+    float mang_inf;          // ï¿½ï¿½È¦ï¿½ï¿½ï¿½ï¿½Öµ
+    uint8_t first = 0;       // ï¿½ï¿½Ê¼ï¿½ï¿½Ö¾
+    float Last_mang;         // ï¿½Ï´ÎµÄ½Ç¶ï¿½Öµï¿½ï¿½ï¿½Ð¶Ï¹ï¿½È¦ï¿½ï¿½
+    int16_t motor_number;    // È¦ï¿½ï¿½
 
-    uint32_t motor_send_error_cnt = 0;                // ´ïÃîµ¥µç»ú·¢ËÍ´íÎó¼Æ´Î
-    HAL_StatusTypeDef motor_send_state = HAL_TIMEOUT; // µç»ú·¢ËÍ×´Ì¬/ÊÇ·ñÓÐµ÷ÓÃ±êÖ¾
+    uint32_t motor_send_error_cnt = 0;                // ï¿½ï¿½ï¿½îµ¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í´ï¿½ï¿½ï¿½Æ´ï¿½
+    HAL_StatusTypeDef motor_send_state = HAL_TIMEOUT; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×´Ì¬/ï¿½Ç·ï¿½ï¿½Ðµï¿½ï¿½Ã±ï¿½Ö¾
     HAL_StatusTypeDef DM_Start(uint16_t id);
     HAL_StatusTypeDef DM_End(uint16_t id);
     HAL_StatusTypeDef DM_Savezero(uint16_t id);
     HAL_StatusTypeDef DM_MIT(uint16_t id, float _pos, float _vel, float _KP, float _KD, float _torq);
     HAL_StatusTypeDef DM_POS(uint16_t id, float _pos, float _vel);
     HAL_StatusTypeDef DM_VEL(uint16_t id, float _vel);
-    void update_4PI_mang_inf_basic_zeromang(void); // ²»¸Ä±ä0µãµÄ¹ýÈ¦¼ì²â
-    HAL_StatusTypeDef DM_update(void);             // µÃµ½ËÙ¶È£¬Î»ÖÃµÈ²ÎÊý
+    void update_4PI_mang_inf_basic_zeromang(void); // ï¿½ï¿½ï¿½Ä±ï¿½0ï¿½ï¿½Ä¹ï¿½È¦ï¿½ï¿½ï¿½
+    HAL_StatusTypeDef DM_update(void);             // ï¿½Ãµï¿½ï¿½Ù¶È£ï¿½Î»ï¿½ÃµÈ²ï¿½ï¿½ï¿½
+    HAL_StatusTypeDef DM_Clear_Err(uint16_t Id);
     MOTOR_DM(const uint16_t id, class USER_CAN *CAN_rev) : ID(id), can_rev(CAN_rev) {}
         
         float P_MIN = -3.141593f,
@@ -52,7 +53,7 @@ public:
 
 private:
     
-    // ÕâÀï¶¨ÒåµÄ¶«Î÷ÊÇÓÃ¸øclassÀàÀïÃæµÄº¯Êý²ÎÊý¶¨Òå
+    // ï¿½ï¿½ï¿½ï¶¨ï¿½ï¿½Ä¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã¸ï¿½classï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 };
 
 #endif
