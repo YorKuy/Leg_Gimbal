@@ -72,7 +72,7 @@ rule C_COMPILER__STM32_Drivers_Release
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /usr/bin/cmake --regenerate-during-build -S/home/yorkuy/Code/Leg_Gimbal -B/home/yorkuy/Code/Leg_Gimbal/build/Release
+  command = /usr/bin/cmake --regenerate-during-build -S/home/yorkuy/code/Leg_Gimbal -B/home/yorkuy/code/Leg_Gimbal/build/Release
   description = Re-running CMake...
   generator = 1
 

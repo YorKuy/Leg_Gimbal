@@ -1,7 +1,7 @@
-/home/yorkuy/Code/Leg_Gimbal/CH010/hipnuc_dec.c:707:13:hipnuc_crc16	16	static
-/home/yorkuy/Code/Leg_Gimbal/CH010/hipnuc_dec.c:123:15:D8	8	static
-/home/yorkuy/Code/Leg_Gimbal/CH010/hipnuc_dec.c:18:6:IMU_UART_Init	8	static
-/home/yorkuy/Code/Leg_Gimbal/CH010/hipnuc_dec.c:67:6:process_data	0	static
-/home/yorkuy/Code/Leg_Gimbal/CH010/hipnuc_dec.c:360:5:hipnuc_input	40	static
-/home/yorkuy/Code/Leg_Gimbal/CH010/hipnuc_dec.c:29:6:IMU_UART_IRQHandler	32	static
-/home/yorkuy/Code/Leg_Gimbal/CH010/hipnuc_dec.c:408:5:hipnuc_dump_packet	352	static
+/home/yorkuy/code/Leg_Gimbal/CH010/hipnuc_dec.c:707:13:hipnuc_crc16	16	static
+/home/yorkuy/code/Leg_Gimbal/CH010/hipnuc_dec.c:123:15:D8	8	static
+/home/yorkuy/code/Leg_Gimbal/CH010/hipnuc_dec.c:18:6:IMU_UART_Init	8	static
+/home/yorkuy/code/Leg_Gimbal/CH010/hipnuc_dec.c:67:6:process_data	0	static
+/home/yorkuy/code/Leg_Gimbal/CH010/hipnuc_dec.c:360:5:hipnuc_input	40	static
+/home/yorkuy/code/Leg_Gimbal/CH010/hipnuc_dec.c:29:6:IMU_UART_IRQHandler	32	static
+/home/yorkuy/code/Leg_Gimbal/CH010/hipnuc_dec.c:408:5:hipnuc_dump_packet	352	static

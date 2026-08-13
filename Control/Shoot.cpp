@@ -15,7 +15,7 @@ PID_class M2006_BP_Speed(13, 0, 0, 16000, 0, 0, 16000),
     M2006_BP_Con_Speed(13, 0, 0, 16000, 0, 0, 16000),
     M2006_BP_Con_Angle(0.45, 0, 0, 16000, 0, 0, 16000);
 UpDown_check_class UD_BP_ON(0), UD_BP_ALIGN(0), UD_BP_PREFAB_RELEASE(0), UD_BP_DF(0);
-UpDown_check_class UD_PR_BP(0);
+UpDown_check_class UD_PR_BP(0),UD_BP_FIRE(0);
 MCL *mcl = new MCL();
 BP *bp = new BP();
 static u8 buff_flag = 1;
@@ -30,6 +30,15 @@ static float ramp_towards(float current, float target, float max_delta)
     if (delta < -max_delta)
         return current - max_delta;
     return target;
+}
+
+static float clamp_float(float value, float min_value, float max_value)
+{
+    if (value < min_value)
+        return min_value;
+    if (value > max_value)
+        return max_value;
+    return value;
 }
 
 void slope(float *rec, float target, float slow_Inc)
@@ -86,6 +95,26 @@ void MCL::MCL_while_layer(u8 YK_Mode)
     }
 }
 
+void MCL::Update_Bullet_Feedback(f bullet_speed, uint16_t cooling_heat)
+{
+    const u8 new_shot = Bullet_Feedback_Initialized && (cooling_heat > Last_Cooling_Heat);
+    Last_Cooling_Heat = cooling_heat;
+    Bullet_Feedback_Initialized = 1;
+
+    if (bullet_speed < 10.0f || bullet_speed > 40.0f)
+        return;
+
+    Bullet_Speed = bullet_speed;
+    if (!new_shot || Mode != MCL_ON)
+        return;
+    if (bullet_speed < MCL_BULLET_SPEED_MIN)
+        MCL_Change -= MCL_COMPENSATION_STEP;
+    else if (bullet_speed > MCL_BULLET_SPEED_MAX)
+        MCL_Change += MCL_COMPENSATION_STEP;
+
+    MCL_Change = clamp_float(MCL_Change, MCL_COMPENSATION_MIN, MCL_COMPENSATION_MAX);
+}
+
 f *MCL::MCL_deal(u8 YK_Mode)
 {
     if (M3508_MCL_Right.update() == HAL_OK)
@@ -100,7 +129,7 @@ f *MCL::MCL_deal(u8 YK_Mode)
     }
     if ((mcl->Update_Flag & 0x3) == 0x3)
     {
-        const float desired_speed = mcl->Mode ? (mcl->MCL_Speed + mcl->MCL_Change) : 0.0f;
+        const float desired_speed = mcl->Mode ? LIMIT((mcl->MCL_Speed + mcl->MCL_Change),-6150,-5950) : 0.0f;
         const uint32_t now = HAL_GetTick();
         uint32_t dt_ms = 0;
 
@@ -113,8 +142,8 @@ f *MCL::MCL_deal(u8 YK_Mode)
         mcl->Last_Ramp_Tick = now;
 
         const float ramp_speed = fabsf(mcl->MCL_Speed + mcl->MCL_Change);
-        const float accel_step = (ramp_speed / 500.0f) * dt_ms;
-        const float decel_step = (ramp_speed / 200.0f) * dt_ms;
+        const float accel_step = (ramp_speed / 600.0f) * dt_ms;
+        const float decel_step = (ramp_speed / 500.0f) * dt_ms;
         const float right_step = (fabsf(desired_speed) > fabsf(mcl->Target_R)) ? accel_step : decel_step;
         const float left_target = -desired_speed;
         const float left_step = (fabsf(left_target) > fabsf(mcl->Target_L)) ? accel_step : decel_step;
@@ -248,7 +277,7 @@ f BP::BP_Out_Interface(u8 YK_Mode, u8 jianshu_flag)
     // 目标角度更新（原 BP_deal 逻辑）
     if (YK_Mode == SHOOT_MODE)
     {
-        if (UD_BP_ON.updata(bp->ONE_ON) == UpDown_check_rising && mcl->Mode == 1 && Error_flag == 0)
+        if (UD_BP_ON.updata(bp->ONE_ON) == UpDown_check_rising || ((UD_BP_FIRE.updata(SuperPower.mode == 2) == UpDown_check_rising)&&request.zimiao_status) && mcl->Mode == 1 && Error_flag == 0)
         {
             bp->One_Target_Angle = M2006_BP.mang_inf;
             if (abs((int32_t)M2006_BP.mang_inf % (int32_t)BOPAN_ANGLE) < 10000)
@@ -271,7 +300,7 @@ f BP::BP_Out_Interface(u8 YK_Mode, u8 jianshu_flag)
         else if (((bp->CON_ON || (request.zimiao_status && SuperPower.mode == 2)) && mcl->Mode == 1) && Error_flag == 0 && buff_mode != 1)
         {
             bp->Continuous_shooting_flag = 1;
-            bp->Continuous_Target_Angle += Shot_SP_1 * 15;
+            bp->Continuous_Target_Angle += Shot_SP_1 * 6;
             bp->energy.real_inf = M2006_BP.mang_inf;
             bp->energy.total_real += bp->energy.real_inf - bp->energy.last_inf;
             bp->energy.C_Shoot = bp->energy.total_real / BOPAN_ANGLE;
@@ -289,7 +318,7 @@ f BP::BP_Out_Interface(u8 YK_Mode, u8 jianshu_flag)
     else if (YK_Mode == PLAYER_MODE)
     {
         remain_heat = shooter_id1_17mm_cooling_limit - shooter_id1_17mm_cooling_heat;
-        if (UD_BP_DF.updata(YK.shubiao.press_l) == UpDown_check_rising && (remain_heat > 30 || YK.Pressed_Check(KEY_PRESSED_CTRL)))
+        if ((((UD_BP_FIRE.updata(SuperPower.mode == 2) == UpDown_check_rising && request.zimiao_status)|| UD_BP_DF.updata(YK.shubiao.press_l) == UpDown_check_rising) && (remain_heat > 30 || YK.Pressed_Check(KEY_PRESSED_CTRL))))
         {
             bp->One_Target_Angle = M2006_BP.mang_inf;
             bp->One_Target_Angle += BOPAN_ANGLE;

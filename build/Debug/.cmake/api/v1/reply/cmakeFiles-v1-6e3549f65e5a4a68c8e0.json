@@ -150,8 +150,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/cyn/control_code/Leg_Gimbal/build/Debug",
-		"source" : "/home/cyn/control_code/Leg_Gimbal"
+		"build" : "/home/yorkuy/code/Leg_Gimbal/build/Debug",
+		"source" : "/home/yorkuy/code/Leg_Gimbal"
 	},
 	"version" : 
 	{

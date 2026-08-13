@@ -14,12 +14,16 @@
 #define Shot_SP_1           (36.57 * 8 / 3.6f)
 #define BOPAN_ANGLE         (8192 * 10.0f)
 #define BP_TEST_FLAG 0
-// 本工程正常拨弹目标递增，因此回退方向必须为负；幅值集中在此处便于实机调整。
 #define BP_RECOVERY_ONE_ANGLE       (-BOPAN_ANGLE * 0.8F)
 #define BP_RECOVERY_CON_ANGLE       (-BOPAN_ANGLE * 0.7F)
 #define BP_RECOVERY_MIN_INTERVAL_MS 400
 #define BP_RECOVERY_MAX_DURATION_MS 500
 #define BP_RECOVERY_FINISH_ERROR    500.0F
+#define MCL_BULLET_SPEED_MIN        23.0F
+#define MCL_BULLET_SPEED_MAX        24.5F
+#define MCL_COMPENSATION_STEP       50.0F
+#define MCL_COMPENSATION_MIN        (-500.0F)
+#define MCL_COMPENSATION_MAX        500.0F
 #define Charge_OFF HAL_GPIO_WritePin(GPIOB, GPIO_PIN_6, GPIO_PIN_RESET)			//ӫ�����ģ��
 #define Charge_ON HAL_GPIO_WritePin(GPIOB, GPIO_PIN_6, GPIO_PIN_SET)
 
@@ -30,22 +34,29 @@ class MCL
         f Target_R,Target_L;
         u8 Update_Flag;
         uint32_t Last_Ramp_Tick;
+        uint16_t Last_Cooling_Heat;
+        u8 Bullet_Feedback_Initialized;
     public:
         f  PID_OUT[2];
         u8 Mode,State;
-        f  MCL_Speed = 6200,MCL_Change = 0;
+        f  MCL_Speed = 0,MCL_Change = 0;
+        f  Bullet_Speed;
         void MCL_while_layer(u8 YK_Mode);
+        void Update_Bullet_Feedback(f bullet_speed, uint16_t cooling_heat);
         f    *MCL_deal(u8 YK_Mode);
         MCL():
             Target_R(0),
             Target_L(0),
             Update_Flag(0),
             Last_Ramp_Tick(0),
+            Last_Cooling_Heat(0),
+            Bullet_Feedback_Initialized(0),
             PID_OUT{0, 0},
             Mode(MCL_OFF),
             State(0),
-            MCL_Speed(-6200),
-            MCL_Change(0)
+            MCL_Speed(-6150),
+            MCL_Change(0),
+            Bullet_Speed(0)
         {}
 
 };

@@ -61,7 +61,8 @@ uint8_t YAW_Mode = PROTECT_MODE, PITCH_Mode = PROTECT_MODE;
 f Pitch_Pid_Out, Yaw_Pid_Out, BP_PID_OUT;
 int remain_heat;
 uint8_t jianshu_flag = 0, Prefabricate_Flag = 0;
-uint16_t shooter_id1_17mm_barrel_cooling_value, shooter_id1_17mm_cooling_limit = 0, shooter_id1_17mm_cooling_rate = 0, shooter_id1_17mm_cooling_heat = 0;
+float shooter_id1_17mm_bullet_speed = 0;
+uint16_t shooter_id1_17mm_cooling_limit = 0, shooter_id1_17mm_cooling_rate = 0, shooter_id1_17mm_cooling_heat = 0;
 uint16_t Communicate_Send_Flag_1, Communicate_Rx_Flag_1;
 uint8_t Buff_Flag = 0;
 float LPF_Pitch_out;
@@ -149,6 +150,23 @@ static void MODE_DEAL(void)
   }
 }
 
+static void can2_communicate_rx_deal(void)
+{
+  if (CAN_2.RxHeader.StdId != 0x558)
+    return;
+
+  Communicate_Rx_Flag_1 = CAN_2.rx_buf[1] | (CAN_2.rx_buf[0] << 8);
+
+  const uint16_t bullet_speed_raw = CAN_2.rx_buf[3] | (CAN_2.rx_buf[2] << 8);
+  // wheel_leg_CP 新协议使用 0.01 m/s；同时兼容旧版直接发送的整数 m/s。
+  shooter_id1_17mm_bullet_speed = (bullet_speed_raw >= 1000U)
+                                           ? (bullet_speed_raw / 100.0f)
+                                           : (float)bullet_speed_raw;
+  shooter_id1_17mm_cooling_limit = CAN_2.rx_buf[5] | (CAN_2.rx_buf[4] << 8);
+  shooter_id1_17mm_cooling_heat = CAN_2.rx_buf[7] | (CAN_2.rx_buf[6] << 8);
+  mcl->Update_Bullet_Feedback(shooter_id1_17mm_bullet_speed, shooter_id1_17mm_cooling_heat);
+}
+
 static void can2_communicate_deal(void)
 {
   static uint8_t flag = 0;
@@ -185,13 +203,6 @@ static void can2_communicate_deal(void)
     flag = 1;
   }
 
-  if (CAN_2.RxHeader.StdId == 0x558)
-  {
-    Communicate_Rx_Flag_1 = CAN_2.rx_buf[1] | CAN_2.rx_buf[0] << 8;
-    shooter_id1_17mm_barrel_cooling_value = CAN_2.rx_buf[3] | CAN_2.rx_buf[2] << 8;
-    shooter_id1_17mm_cooling_limit = CAN_2.rx_buf[5] | CAN_2.rx_buf[4] << 8;
-    shooter_id1_17mm_cooling_heat = CAN_2.rx_buf[7] | CAN_2.rx_buf[6] << 8;
-  }
 }
 
 static void jianshu_deal(void)
@@ -246,15 +257,15 @@ static void jianshu_deal(void)
     Communicate_Send_Flag_1 |= (0x0001 << 2);
   else
     Communicate_Send_Flag_1 &= ~(0x0001 << 2);
-  if (UD_SpeedUp.updata(YK.Pressed_Check(KEY_PRESSED_F)) == UpDown_check_rising && (YK.jianpan & KEY_PRESSED_CTRL))
-  {
-    mcl->MCL_Change += 50;
-  }
+  // if (UD_SpeedUp.updata(YK.Pressed_Check(KEY_PRESSED_F)) == UpDown_check_rising && (YK.jianpan & KEY_PRESSED_CTRL))
+  // {
+  //   mcl->MCL_Change += 50;
+  // }
 
-  if (UD_SpeedDown.updata(YK.Pressed_Check(KEY_PRESSED_F)) == UpDown_check_rising && !(YK.jianpan & KEY_PRESSED_CTRL))
-  {
-    mcl->MCL_Change -= 50;
-  }
+  // if (UD_SpeedDown.updata(YK.Pressed_Check(KEY_PRESSED_F)) == UpDown_check_rising && !(YK.jianpan & KEY_PRESSED_CTRL))
+  // {
+  //   mcl->MCL_Change -= 50;
+  // }
   // if (UD_Buff.updata(YK.Pressed_Check(KEY_PRESSED_V)) == UpDown_check_rising || (YK_Mode == SHOOT_MODE && buff_change_buf.updata(YK.yaogan.v > 600)) == UpDown_check_rising)
   // {
   //   buff_mode = (buff_mode + 1) % 3;
@@ -385,7 +396,7 @@ void App_Gimbal_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
         if (PITCH_Mode == PROTECT_MODE)
           DM_PITCH.DM_MIT(0x01, 0, 0, 0, 0, 0);
         else
-          DM_PITCH.DM_MIT(0x01, 0, 0, 0, 1, Pitch_Pid_Out);//Pitch_Pid_Out
+          DM_PITCH.DM_MIT(0x01, 0, 0, 0, 0.1, Pitch_Pid_Out);//Pitch_Pid_Out
       }
       else
       {
@@ -404,7 +415,7 @@ void App_Gimbal_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
         if (YAW_Mode == PROTECT_MODE)
           DM_YAW.DM_MIT(0x02, 0, 0, 0, 0, 0);
         else
-          DM_YAW.DM_MIT(0x02, 0, 0, 0, 0.1, Yaw_Pid_Out);
+          DM_YAW.DM_MIT(0x02, 0, 0, 0, 0, Yaw_Pid_Out);
       }
       else
       {
@@ -428,15 +439,15 @@ void App_Gimbal_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
     AS.heat_speed.f = 24.4;
     Mini_PC_SendData();
     static uint8_t mcl_flag = 0;
-    if (YK_Mode == PROTECT_MODE && ++ mcl_flag > 10)
-    {
-      CAN_1.Send_RM(0x200, 0, 0, 0, 0);
-    }
-    else
-    {
+     if (YK_Mode == PROTECT_MODE && ++ mcl_flag > 10)
+     {
+       CAN_1.Send_RM(0x200, 0, 0, 0, 0);
+     }
+     else
+     {
       mcl_flag = 0;
       CAN_1.Send_RM(0x200, mcl->PID_OUT[1], mcl->PID_OUT[0], 0, 0);
-    }
+     }
   }
 }
 
@@ -458,6 +469,7 @@ void App_Gimbal_CAN2_RxFifo1Callback(CAN_HandleTypeDef *hcan)
   (void)hcan;
   if (CAN_2.Receive(&hcan2) == HAL_OK)
   {
+    can2_communicate_rx_deal();
     if (DM_YAW.DM_update() == HAL_OK)
     {
       Yaw_Pid_Out = yaw->Yaw_Out_Interface(jianshu_flag);
@@ -522,6 +534,11 @@ void App_Gimbal_USART2_IRQHandler(void)
               Zm_Yaw_Acc = (SuperPower.yaw_acc.f * 57.3);
               Zm_Pitch_Vel = (SuperPower.pitch_vel.f * 57.3);
               Zm_Pitch_Acc = (SuperPower.pitch_acc.f * 57.3);
+              // static float this_angle,last_angle;
+              // if(fabs(this_angle) - fasb(last_angle) < 80.0f)
+              // {
+              //   yaw->Target_Angle = ZM_Angle_Deal(SuperPower.yaw.f * 180.0 / PI, GIMBAL_088.nowAngle.yaw, GIMBAL_088.realAngle.yaw);
+              // }
               yaw->Target_Angle = ZM_Angle_Deal(SuperPower.yaw.f * 180.0 / PI, GIMBAL_088.nowAngle.yaw, GIMBAL_088.realAngle.yaw);
               pitch->Target_Angle = (SuperPower.pitch.f * 180.0 / PI);
             }

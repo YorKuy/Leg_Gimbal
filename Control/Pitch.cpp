@@ -14,9 +14,9 @@
 #define RAD PI / 180.0f
 SMC         Pitch(45,70,0,0.001,15000,0.9,1,1),
             Pitch_Zm(60, 130, 0, 0.1, 16000, 1, 1, 1);
-SMC_PITCH SMC_Pitch(30,40, 2.0f, 0.01f, 20000, 0.8f, 1),
+SMC_PITCH SMC_Pitch(35,46, 2.0f, 0.01f, 20000, 0.8f, 1),
             SMC_Pitch_Encoder(120,135, 10.0f, 0.01f, 20000, 0.8f, 1),
-            SMC_Pitch_Zm(42,55, 25.0f, 0.01f, 30000, 0.8f, 1.0f);
+            SMC_Pitch_Zm(38,50, 22.0f, 0.01f, 30000, 0.8f, 1.0f);
 static PITCH pitch_instance;
 PITCH *pitch = &pitch_instance;
 extern MOTOR_DM DM_PITCH;

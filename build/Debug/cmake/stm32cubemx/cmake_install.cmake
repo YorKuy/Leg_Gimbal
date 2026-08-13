@@ -1,4 +1,4 @@
-# Install script for directory: /home/cyn/control_code/Leg_Gimbal/cmake/stm32cubemx
+# Install script for directory: /home/yorkuy/code/Leg_Gimbal/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

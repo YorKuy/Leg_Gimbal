@@ -8,32 +8,34 @@ GraphedExpression="((GIMBAL_088).realAngle).yaw", Color=#b3c38e, Show=0
 GraphedExpression="((GIMBAL_088).realAngle).roll", Color=#ab7b05
 GraphedExpression="((GIMBAL_088).realAngle).pitch", Color=#7fd3b7, Show=0
 GraphedExpression="Pitch.ref", Color=#50328f
-OpenDocument="main.cpp", FilePath="/home/yorkuy/Code/Leg_Gimbal/App_Lib/main.cpp", Line=4
-OpenDocument="can.c", FilePath="/home/yorkuy/Code/Leg_Gimbal/Core/Src/can.c", Line=97
-OpenDocument="app_gimbal.cpp", FilePath="/home/yorkuy/Code/Leg_Gimbal/App_Lib/app_gimbal.cpp", Line=431
-OpenDocument="stm32f4xx_hal_can.c", FilePath="/home/yorkuy/Code/Leg_Gimbal/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c", Line=1579
-OpenDocument="Shoot.cpp", FilePath="/home/yorkuy/Code/Leg_Gimbal/Control/Shoot.cpp", Line=349
-OpenDocument="stm32f4xx_hal_gpio.c", FilePath="/home/yorkuy/Code/Leg_Gimbal/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c", Line=399
-OpenDocument="stm32f4xx_it.c", FilePath="/home/yorkuy/Code/Leg_Gimbal/Core/Src/stm32f4xx_it.c", Line=96
-OpenDocument="ieee754-df.S", FilePath="/build/gcc-arm-none-eabi-hYfgK4/gcc-arm-none-eabi-10.3-2021.07/libgcc/config/arm/ieee754-df.S", Line=0
-OpenDocument="Pitch.cpp", FilePath="/home/yorkuy/Code/Leg_Gimbal/Control/Pitch.cpp", Line=63
-OpenDocument="RM_Lib.cpp", FilePath="/home/yorkuy/Code/Leg_Gimbal/RM2023_Lib_V1.2/RM_Lib.cpp", Line=593
-OpenDocument="Yaw.cpp", FilePath="/home/yorkuy/Code/Leg_Gimbal/Control/Yaw.cpp", Line=282
-OpenDocument="startup_stm32f405xx.s", FilePath="/home/yorkuy/Code/Leg_Gimbal/startup_stm32f405xx.s", Line=49
+GraphedExpression="(DM_PITCH).mang", Color=#c587a5, Show=0
+OpenDocument="main.cpp", FilePath="/home/yorkuy/code/Leg_Gimbal/App_Lib/main.cpp", Line=4
+OpenDocument="Pitch.cpp", FilePath="/home/yorkuy/code/Leg_Gimbal/Control/Pitch.cpp", Line=0
+OpenDocument="can.c", FilePath="/home/yorkuy/code/Leg_Gimbal/Core/Src/can.c", Line=97
+OpenDocument="app_gimbal.cpp", FilePath="/home/yorkuy/code/Leg_Gimbal/App_Lib/app_gimbal.cpp", Line=123
+OpenDocument="stm32f4xx_hal_can.c", FilePath="/home/yorkuy/code/Leg_Gimbal/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c", Line=1579
+OpenDocument="Shoot.cpp", FilePath="/home/yorkuy/code/Leg_Gimbal/Control/Shoot.cpp", Line=349
+OpenDocument="stm32f4xx_hal_gpio.c", FilePath="/home/yorkuy/code/Leg_Gimbal/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c", Line=399
+OpenDocument="stm32f4xx_it.c", FilePath="/home/yorkuy/code/Leg_Gimbal/Core/Src/stm32f4xx_it.c", Line=96
+OpenDocument="DM.h", FilePath="/home/yorkuy/code/Leg_Gimbal/Motor_Lib/DM.h", Line=0
+OpenDocument="RM_Lib.cpp", FilePath="/home/yorkuy/code/Leg_Gimbal/RM2023_Lib_V1.2/RM_Lib.cpp", Line=593
+OpenDocument="Yaw.cpp", FilePath="/home/yorkuy/code/Leg_Gimbal/Control/Yaw.cpp", Line=282
+OpenDocument="startup_stm32f405xx.s", FilePath="/home/yorkuy/code/Leg_Gimbal/startup_stm32f405xx.s", Line=49
 OpenToolbar="Debug", Floating=0, x=0, y=0
-OpenWindow="Call Stack", DockArea=LEFT, x=0, y=1, w=240, h=286, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Call Stack", DockArea=LEFT, x=0, y=1, w=240, h=289, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
 OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=921, h=216, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x90
-OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=0, w=240, h=432, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
-OpenWindow="Data Sampling", DockArea=RIGHT, x=0, y=1, w=877, h=211, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
-OpenWindow="Timeline", DockArea=RIGHT, x=0, y=0, w=877, h=507, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="500 ms / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="585;0", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="691;0", CodeGraphLegendShown=0, CodeGraphLegendPosition="666;0"
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=0, w=240, h=429, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=RIGHT, x=0, y=1, w=655, h=218, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=RIGHT, x=0, y=0, w=655, h=500, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="500 ms / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="363;0", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="812;0", CodeGraphLegendShown=0, CodeGraphLegendPosition="787;0"
 OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=923, h=216, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
 SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
 TableHeader="Call Stack", SortCol="Function", SortOrder="ASCENDING", VisibleCols=["Function";"Stack Frame";"Source";"PC";"Return Address";"Stack Used"], ColWidths=[100;100;100;100;100;100]
-TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" GIMBAL_088_State";" Yaw_Encoder.ref";" (DM_YAW).mang";" Pitch_Pid_Out";" ((GIMBAL_088).realAngle).yaw";" ((GIMBAL_088).realAngle).roll";" ((GIMBAL_088).realAngle).pitch";" Pitch.ref"], ColWidths=[100;100;100;100;100;100;100;100;100;100]
-TableHeader="Data Sampling Setup", SortCol="Value", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[196;105;100;119;100;100;100;105;112]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" GIMBAL_088_State";" Yaw_Encoder.ref";" (DM_YAW).mang";" Pitch_Pid_Out";" ((GIMBAL_088).realAngle).yaw";" ((GIMBAL_088).realAngle).roll";" ((GIMBAL_088).realAngle).pitch";" Pitch.ref";" (DM_PITCH).mang"], ColWidths=[100;100;100;100;100;100;100;100;100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Value", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[196;105;100;100;105;100;100;105;105]
 TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
 TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh";"Access"], ColWidths=[154;100;100;100;100]
 TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
 TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;359]
 WatchedExpression="DM_YAW", Window=Watched Data 1
 WatchedExpression="GIMBAL_088", Window=Watched Data 1
+WatchedExpression="DM_PITCH", Window=Watched Data 1
